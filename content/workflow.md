@@ -18,11 +18,10 @@ Because we sometimes work remotely ([read more](/content/remote.md) on working r
 
 After Monday's overlap, everyone will be aware of everyone's priorities for the week. 
 
-After this, we keep our to-do's on Basecamp, which at the end of the day sends an email with a summary of what everyone accomplished for that day. This is why it's very important to keep our to-dos on Basecamp updated.
+There are two ways we keep each other accountable:
+1. We keep our to-do's on Basecamp, this way everyone knows who's in charge of what and when it's due. At the end of the day Basecamp automatically sends an email with a summary of what everyone accomplished for that day. 
+2. We also have an #accountability channel on Slack where we check-in at the the start of our workday by saying what we will be working on that day. This is to help keep everybody in the loop of what you're working on and it allows us to coordinate efforts better. (Working remotely we've found that using this channel has become invaluable.) At the end of your workday or periodically you can post a status on what you've accomplished and how the day went.
 
-We also have an #accountability channel where we, at the start of our day, check-in by saying what we will be working on during the day. When we're finsihed working for the day, we post a status saying how it went.
-
-This helps everyone be in the loop of what you're working on. That way, they can either help you or ask for help easily!
 
 ![accountability](/images/accountability.png)
 
