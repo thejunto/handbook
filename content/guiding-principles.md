@@ -7,7 +7,7 @@ We started Junto Studio for two reasons:
 
 ### We care deeply about:
 - Integrity – #KeepingOurWord
-- Quality
+- Mastery – Becoming very good at what we do
 - Having a Culture of Learning
 
 ### We believe people can be self-governed.
