@@ -6,4 +6,14 @@ As we set out on this journey we wanted to give you a “lay of the land”. Sha
 
 As you read this document keep in mind that it’s based on the journey we’ve covered so far and what we’ve learned. We hope that you evolve, improve it and take it to the next level!
 
-HAPPY SAILING!
+Happy sailing!
+
+- Guiding Principles
+- Learning (Culture Friday, Dialogues, Independent Learning, etc.)
+- Workflow (From Idea to Action)
+- Programming
+- Designing
+- Sales
+- Sharing (blog, twitter, etc.)
+- Expenses
+- Vacations and Time Off
