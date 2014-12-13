@@ -21,4 +21,4 @@ Happy sailing!
 - [Project Management: Sales, Programming, Designing, Management](/content/projects.md)
 - [Tips for Working Remotely](/content/remote.md)
 - [Sharing: Blog, Twitter, etc.](/content/sharing.md)
-- [Administration: Expenses, Vacations/Time-Off](/content/admin.md)
+- [Administration: Payments, Expenses, Vacations/Time-Off](/content/admin.md)
