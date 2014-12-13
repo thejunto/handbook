@@ -2,7 +2,7 @@
 
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
-- [From Idea to Project](#from-idea-to-project)
+- [From Idea to Action](#from-idea-to-action)
 - [Overlaps](#overlaps)
 - [Platforms](#platforms)
 
