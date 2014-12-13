@@ -1,1 +1,1 @@
-# Why Education needs to change
+# Why We Need To Change Education
