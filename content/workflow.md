@@ -49,8 +49,8 @@ Overlaps are a big part of what makes Junto work, because this is the time when 
 *Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/).*
 
 ## Platforms
-- Basecamp
-- Slack
-- Trello
-- Gmail
+- **Basecamp** for managing projects and to-do's with our clients.
+- **Slack** as our internal chat.
+- **Trello** to manage funnels: Ideas, Sales.
+- **Gmail** as our Email.
 
