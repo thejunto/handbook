@@ -19,6 +19,7 @@ Happy sailing!
 - [Why We Need To Change Education](/content/education.md)
 - [Workflow: From Idea to Action](/content/workflow.md)
 - [Project Management: Sales, Programming, Designing, Management](/content/projects.md)
+- [Tips for Working Remotely](/content/remote.md)
 - [Sharing: Blog, Twitter, etc.](/content/sharing.md)
-- [Expenses](/content/expenses.md)
-- [Vacations and Time Off](/content/time-off.md)
+- [Administration: Expenses, Vacations/Time-Off](/content/admin.md)
+- 
