@@ -7,7 +7,7 @@
 - [Platforms](#platforms)
 
 ## How we set priorities:
-On Monday during our [overlap](#overlaps) we have a discussion about what are the most important things we should get done (as a company) for the week.
+On Mondays during our [overlap](#overlaps) we talk about what are the most important things we should get done (as a company) for the week.
 
 Everyone then chooses a work priority and a personal priority.
 - **Work Priority**: How you are going to contribute to accomplishing the companies goals, for the current week.
