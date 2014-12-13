@@ -15,11 +15,9 @@ Happy sailing!
 ### Index:
 
 - [Guiding Principles](/content/guiding-principles.md)
-- Learning (Culture Friday, Dialogues, Independent Learning, etc.)
-- Workflow (From Idea to Action)
-- Programming
-- Designing
-- Sales
-- Sharing (blog, twitter, etc.)
-- Expenses
-- Vacations and Time Off
+- [Learning: Culture Fridays, Dialogues, Independent Learning, etc.](/content/learning.md)
+- [Workflow: From Idea to Action](/content/workflow.md)
+- [Project Management: Sales, Programming, Designing, Management](/content/projects.md)
+- [Sharing: Blog, Twitter, etc.](/content/sharing.md)
+- [Expenses](/content/expenses.md)
+- [Vacations and Time Off](/content/time-off.md)
