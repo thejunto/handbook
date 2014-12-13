@@ -10,6 +10,10 @@ As you read this document keep in mind that it’s based on the journey we’ve 
 
 Happy sailing!
 
+---
+
+Index:
+
 - Guiding Principles
 - Learning (Culture Friday, Dialogues, Independent Learning, etc.)
 - Workflow (From Idea to Action)
