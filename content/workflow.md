@@ -5,7 +5,7 @@ On Mondays we have a discussion about what are the most important things we shou
 
 Everyone then chooses a work priority and a personal priority.
 - **Work Priority**: How you are going to contribute to accomplishing the companies goals, for the current week.
-- **Personal Priority**: Something personal that you want to work on this week. Exapmples: Practice a habit, learn something new, get something done.
+- **Personal Priority**: Something personal that you want to work on this week. Examples: Practice a habit, learn something new, get something done.
 
 ## From Idea to Project
 
