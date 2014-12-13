@@ -14,7 +14,7 @@ Happy sailing!
 
 Index:
 
-- Guiding Principles
+- [Guiding Principles](/content/guiding-principles.md)
 - Learning (Culture Friday, Dialogues, Independent Learning, etc.)
 - Workflow (From Idea to Action)
 - Programming
