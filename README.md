@@ -12,7 +12,7 @@ Happy sailing!
 
 ---
 
-Index:
+### Index:
 
 - [Guiding Principles](/content/guiding-principles.md)
 - Learning (Culture Friday, Dialogues, Independent Learning, etc.)
