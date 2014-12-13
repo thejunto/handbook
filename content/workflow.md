@@ -6,6 +6,8 @@
 - [Overlaps](#overlaps)
 - [Platforms](#platforms)
 
+At Junto we believe that everyone is capable of managing their own time, setting their own priorities and keeping their word. We like being able to work from anywhere in the world and still be able to deliver great work. (Living the dream!)  So how do we create the Junto culture and stay informed with everybody everywhere? 
+
 ## How we set priorities:
 We set our priorities for the week every Monday during our [overlap](#overlaps). The idea is to discuss "what are the most important things we should get done (as a company) for this week?"
 
@@ -50,7 +52,7 @@ Overlaps are a big part of what makes Junto work, because this is the time when 
 
 ## Platforms
 - **Basecamp** for managing projects and to-do's with our clients.
-- **Slack** as our internal chat.
+- **Slack** Our internal chat. Where we deal with day-to-day issues, share information we’ve come across and keep track of our small-wins.
 - **Trello** to manage funnels: Ideas, Sales.
 - **Gmail** as our Email.
 
