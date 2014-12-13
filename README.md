@@ -1,3 +1,5 @@
+![Alt text](http://www.juntostudio.com/logo-square-75.png)
+
 Hey Pear,
 
 Welcome Aboard the Junto boat! We couldn’t be more excited to have you as a peer! Or as we like to call each other, a pear. We’re thrilled to see what adventures we’ll embark on together, what discoveries we make, and most importantly how we support each other in becoming the people we want to be. :)
