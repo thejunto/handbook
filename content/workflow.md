@@ -16,7 +16,7 @@ Because we sometimes work remotely ([read more](/content/remote.md) on working r
 3. When we decide who will be responsible for bringing the idea to life and when it should be done, we will move the idea to our Basecamp list on Trello and add it to the corresponding project on Basecamp.
 4. The idea goes live.
 
-![workflow](/images/workflong.png)
+![workflow](/images/workflow.jpg)
 
 ## Platforms
 - Basecamp
