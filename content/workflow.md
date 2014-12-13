@@ -1,1 +1,1 @@
-# Workflow: From Idea to Action
+# Workflow: Priorities, What to Work on, From Idea to Project.
