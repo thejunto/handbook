@@ -17,15 +17,20 @@ This is what we look for in our clients and the projects we take:
 
 We track our leads using the *Sales Funnel Board* in our Trello. The person responsible for the lead, is also responsible for updating his card on Trello.
 
-## Management
+##How to manage a new project:
 
-All projects will have a project on Basecamp and a lead, a person who is responsible for the project. We write this person's name on the Description field in a Basecamp card.
+1. Create a new project on Basecamp.
+2. Assign a project lead by writing his name on the description field in Basecamp.
+3. Fill Out the Project Template when beginning a project.
+4. Keep [Our Promises]()
+5. A project is considered done when you’ve delivered Docked the Boat. (see “Docking the Boat”)
 
 ![project-lead](project-lead.png)
 
-This does not mean that person is everyone's boss for that project. It means that person is responsible for bringing up the necessary conversations for the project to move forward.
+A project lead is not everyone's boss for that project. It means that that person is responsible for bringing up the necessary conversations for the project to move forward.
 
 ## Programming
 
 ## Design
+
 
