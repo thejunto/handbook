@@ -8,7 +8,7 @@ These are some of the things we do:
 - Take online classes together or as a group.
 - Pay for online courses. Memberships to things like Code School, Treehouse.
 - Allow for learning during 'work time'.
-- Dialogues: Get together (in person or via Hangout) to talk about books, articles, videos... anything really!
+- Weekly Dialogue: Get together (in person or via Hangout) to talk about a book, article, video (anything really!) that we all encountered.
 - Talks: Anyone can give a presentation about an interesting topic (not necessarily tech related). For example: personal finance, achieving happiness, etc.
 - Guest Speakers: Invite someone external to one of our dialogues, or to give a 'talk'. 
 
