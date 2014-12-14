@@ -27,7 +27,7 @@ We track our leads using the *Sales Funnel Board* in our Trello. The person resp
 
 ![project-lead](/images/project-lead.png)
 
-A project lead is not everyone's boss for that project. It means that that person is responsible for bringing up the necessary conversations for the project to move forward.
+A project lead main responsibility is to bring up the conversations necessary to move the project forward. He shouldn't demand things from other people involved in the project.
 
 ## Programming
 
