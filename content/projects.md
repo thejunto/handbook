@@ -1,5 +1,10 @@
 # Project Management: Sales, Management, Programming, Design
 
+- [Sales](#sales)
+- [How to manage a new project](#how-to-manage-a-new-project)
+- [Programming](#programming)
+- [Design](#design)
+
 ## Sales
 At Junto, everyone does Sales. The process looks like this:
 - Someone contacts us.
