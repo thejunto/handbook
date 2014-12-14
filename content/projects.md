@@ -25,7 +25,7 @@ We track our leads using the *Sales Funnel Board* in our Trello. The person resp
 4. Keep [Our Promises]()
 5. A project is considered done when you’ve delivered Docked the Boat. (see “Docking the Boat”)
 
-![project-lead](project-lead.png)
+![project-lead](/images/project-lead.png)
 
 A project lead is not everyone's boss for that project. It means that that person is responsible for bringing up the necessary conversations for the project to move forward.
 
