@@ -55,4 +55,5 @@ Overlaps are a big part of what makes Junto work, because this is the time when 
 - **Slack** is our internal chat. Where we deal with day-to-day issues, share information we’ve come across and keep track of our small-wins.
 - **Trello** is where we  manage our Ideas and Sales funnels.
 - **Gmail** as our Email.
+- **Bitbucket** to host our code.
 
