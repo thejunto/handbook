@@ -6,7 +6,7 @@ Learning is important for us because we believe it is one of the activities that
 
 These are some of the things we do:
 - Take online classes together or as a group.
-- Pay for online courses, memberships to things like Code School, Treehouse.
+- Pay for online courses. Memberships to things like Code School, Treehouse.
 - Allow for learning during 'work time'.
 - Dialogues: Get together (in person or via Hangout) to talk about books, articles, videos... anything really!
 - Talks: Anyone can give a presentation about an interesting topic (not necessarily tech related). For example: personal finance, achieving happiness, etc.
