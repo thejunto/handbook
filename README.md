@@ -18,7 +18,7 @@ Happy sailing!
 - [Why We Need To Change Education](/content/education.md)
 - [Learning: Culture Fridays, Dialogues, Independent Learning, etc.](/content/learning.md)
 - [Workflow: Priorities, What to Work on, From Idea to Action.](/content/workflow.md)
-- [Project Management: Sales, Programming, Designing, Management](/content/projects.md)
+- [Project Management: Sales, Management, Programming, Design](/content/projects.md)
 - [Tips for Working Remotely](/content/remote.md)
 - [Sharing: Blog, Twitter, etc.](/content/sharing.md)
 - [Administration: Payments, Expenses, Vacations/Time-Off](/content/admin.md)
