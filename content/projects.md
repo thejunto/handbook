@@ -14,6 +14,7 @@
 
 ## Sales
 At Junto, everyone does Sales. The process looks like this:
+
 1. Someone contacts us.
 2. They fill out our Questionnaire (You can find it on our Junto Studio project on Basecamp)
 3. We Hangout/Skype with them if necessary.
