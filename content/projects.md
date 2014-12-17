@@ -7,13 +7,13 @@
 
 ## Sales
 At Junto, everyone does Sales. The process looks like this:
-- Someone contacts us.
-- They fill out our Questionnaire (You can find it on our Junto Studio project on Basecamp)
-- We Hangout/Skype with them if necessary.
-- We discuss the project with the team. We figure out: If we want to take it, if we'll learn from doing it, how much time it'd take, how much it'll cost, who'll be involved.
-- Send out a quote. (You can find the template on our Junto Studi project on Basecamp)
-- The client does the downpayment.
-- We begin work.
+1. Someone contacts us.
+2. They fill out our Questionnaire (You can find it on our Junto Studio project on Basecamp)
+3. We Hangout/Skype with them if necessary.
+4. We discuss the project with the team. We figure out: If we want to take it, if we'll learn from doing it, how much time it'd take, how much it'll cost, who'll be involved.
+5. Send out a quote. (You can find the template on our Junto Studi project on Basecamp)
+6. The client does the downpayment.
+7. We begin work.
 
 This is what we look for in our clients and the projects we take:
 - We can learn a lot from them.
@@ -32,7 +32,7 @@ We track our leads using the *Sales Funnel Board* in our Trello. The person resp
 
 ![project-lead](/images/project-lead.png)
 
-A project lead main responsibility is to bring up the conversations necessary to move the project forward. He shouldn't demand things from other people involved in the project.
+A project lead's main responsibility is to bring up the conversations necessary to move the project forward. He shouldn't demand things from other people involved in the project.
 
 ## Programming
 

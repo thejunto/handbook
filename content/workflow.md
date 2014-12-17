@@ -42,11 +42,16 @@ This is the process an idea usually goes through:
 
 Overlaps are a big part of what makes Junto work, because this is the time when a lot of decisions are made, and bottlenecks are sorted out. Everyone on the team chats on Slack for about 30 minutes (at 12.30pm CST) and each day of the week has a theme.
 
-- Monday: Setting priorities. 
-- Tuesday: Processes and Product Development.
+- Monday: Setting priorities.
+    + The goal is to reach clear company wide priorities and clear individual priorities.
+- Tuesday: Workflow and Product Development.
+    + Discuss our workflow and our processes. What can we improve? What would make us more productive? Happier?
 - Wednesday: Growth.
+    + Check-in with our metrics. Discuss plans for growth.
 - Thursday: Feedback.
+    + How did we feel throughout the week?
 - Friday: The Company and its Culture.
+    + Learn together. Learn about each other. Have a dialogue.
 
 *Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/).*
 
