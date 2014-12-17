@@ -10,22 +10,23 @@ At Junto, everyone does Sales. The process looks like this:
 1. Someone contacts us.
 2. They fill out our Questionnaire (You can find it on our Junto Studio project on Basecamp)
 3. We Hangout/Skype with them if necessary.
-4. We discuss the project with the team. We figure out: If we want to take it, if we'll learn from doing it, how much time it'd take, how much it'll cost, who'll be involved.
-5. Send out a quote. (You can find the template on our Junto Studi project on Basecamp)
-6. The client does the downpayment.
+4. We discuss the project with the team. We figure out: If we want to take it, if we'll learn enough from doing it, how much time it will take, how much it'll cost, who'll be involved.
+5. Send out a quote. (You can find the template on our Junto Studio project on Basecamp)
+6. The client makes the downpayment.
 7. We begin work.
 
 This is what we look for in our clients and the projects we take:
 - We can learn a lot from them.
 - They understand and value highly the work we do and how we do it.
-- We belive we can add a lot of value to their business.
+- We believe we can add a lot of value to their business.
+- They can #KeepTheirWord and have high integrity.
 
-We track our leads using the *Sales Funnel Board* in our Trello. The person responsible for the lead, is also responsible for updating his card on Trello.
+We track our leads using the *Sales Funnel Board* in our Trello. The person responsible for the lead, is also responsible for updating his/her card on Trello.
 
 ##How to manage a new project:
 
 1. Create a new project on Basecamp.
-2. Assign a project lead by writing his name on the description field in Basecamp.
+2. Assign a project lead by writing his/her name on the description field in Basecamp.
 3. Fill Out the Project Template when beginning a project.
 4. Keep [Our Promises]()
 5. A project is considered done when you’ve delivered Docked the Boat. (see “Docking the Boat”)
