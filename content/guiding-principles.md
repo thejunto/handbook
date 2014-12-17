@@ -25,5 +25,5 @@ To read more about how we set priorities, how people choose what to work on, and
 ---
 
 #### Resources:
-- Why education needs to change: [One World Schoolhouse](https://www.dropbox.com/s/67vxl2wx5ktwkea/the_one_world_schoolhouse_-_sal_khan.pdf?dl=0) by Sal Khan.
+- Why education needs to change: One World Schoolhouse by Sal Khan.
 - [This short video](http://vimeo.com/15488784) on Dan Pink's concept of Drive.

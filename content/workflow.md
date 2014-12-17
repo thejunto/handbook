@@ -4,10 +4,10 @@ At Junto we believe that everyone is capable of managing their own time, setting
 
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
-- [Overcommunicate](#overcommunicate)
+- [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Overlaps](#overlaps)
-- [Preferred Platforms](#preferred-platforms)
+- [Preferred Platforms](#our-tools)
 
 ## How we set priorities:
 We set our priorities for the week every Monday during our [overlap](#overlaps). The idea is to discuss "what are the most important things we should get done (as a company) for this week?"
@@ -38,7 +38,7 @@ We:
 
 - Are online on Slack while we're working.
 - Respond to emails within 24 hours.
-- Keep our to-do's up-to-date in Basecamp.
+- Keep our to-do's in Basecamp up-to-date.
 - Keep track of our ideas in Trello.
 - Use Google Calendar invites for all our meetings, hangouts, etc.
 
