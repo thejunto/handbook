@@ -16,7 +16,7 @@ Happy sailing!
 
 - [Guiding Principles](/content/guiding-principles.md)
 - [Why We Need To Change Education](/content/education.md)
-- [A Culture of Learning: Culture Fridays, Dialogues, Independent Learning, etc.](/content/learning.md)
+- [Our Culture of Learning: Culture Fridays, Dialogues, Independent Learning, etc.](/content/learning.md)
 - [Workflow: Priorities, What to Work on, From Idea to Action.](/content/workflow.md)
 - [Project Management: Sales, Management, Development, Design](/content/projects.md)
 - [Tips for Working Remotely](/content/remote.md)
