@@ -4,9 +4,10 @@ At Junto we believe that everyone is capable of managing their own time, setting
 
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
+- [Overcommunicate](#overcommunicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Overlaps](#overlaps)
-- [Platforms](#platforms)
+- [Preferred Platforms](#preferred-platforms)
 
 ## How we set priorities:
 We set our priorities for the week every Monday during our [overlap](#overlaps). The idea is to discuss "what are the most important things we should get done (as a company) for this week?"
@@ -26,6 +27,20 @@ There are two ways we keep each other accountable:
 2. We also have an #accountability channel on Slack where we check-in at the the start of our workday by saying what we will be working on that day. This is to help keep everybody in the loop of what you're working on and it allows us to coordinate efforts better. (We've found that using this channel has become invaluable.) At the end of your workday or periodically you can post a status on what you've accomplished and how the day went.
 
 ![accountability](/images/accountability.png)
+
+## Overcomunnicate
+
+We over-communicate with clients to avoid having scheduled meetings. Every problem arises from poor communication.
+
+We over-communicate with our team to facilitate collaboration and coordination. Good decisions are made when there's clear information.
+
+We:
+
+- Are online on Slack while we're working.
+- Respond to emails within 24 hours.
+- Keep up-to-date our to-do's in Basecamp.
+- Keep track of our ideas in Trello.
+- Use Google Calendar invites for all our meetings, hangouts, etc.
 
 ## From Idea to Action
 
@@ -55,10 +70,12 @@ Overlaps are a big part of what makes Junto work, because this is the time when 
 
 *Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/).*
 
-## Platforms
+## Preferred Platforms
 - **Basecamp** This is how we manage all of our projects and interact with clients.
 - **Slack** is our internal chat. Where we deal with day-to-day issues, share information we’ve come across and keep track of our small-wins.
 - **Trello** is where we  manage our Ideas and Sales funnels.
 - **Gmail** as our Email.
+- **Google Calendar** for all our "meetings".
+- **Google Hangouts** for online calls.
 - **Bitbucket** to host our code.
 

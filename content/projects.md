@@ -3,7 +3,7 @@
 - [What we believe in](#we-believe-in)
 - [Sales](#sales)
 - [How to manage a new project](#how-to-manage-a-new-project)
-- [Programming](#programming)
+- [Development](#development)
 - [Design](#design)
 
 ## We believe in: 
@@ -43,7 +43,7 @@ We track our leads using the *Sales Funnel Board* in our Trello. The person resp
 
 A project lead's main responsibility is to bring up the conversations necessary to move the project forward. He shouldn't demand things from other people involved in the project.
 
-## Programming
+## Development
 
 ## Design
 
