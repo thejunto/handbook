@@ -8,7 +8,7 @@
 
 ## We believe in: 
 
-- Asking the right questions lead to clear communication.
+- Asking the right questions. Clear communication.
 - Trial and error.
 - Measuring.
 
