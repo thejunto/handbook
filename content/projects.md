@@ -1,9 +1,16 @@
-# Project Management: Sales, Management, Programming, Design
+# Project Management
 
+- [What we believe in](#we-believe-in)
 - [Sales](#sales)
 - [How to manage a new project](#how-to-manage-a-new-project)
 - [Programming](#programming)
 - [Design](#design)
+
+## We believe in: 
+
+- Asking the right questions lead to clear communication.
+- Trial and error.
+- Measuring.
 
 ## Sales
 At Junto, everyone does Sales. The process looks like this:

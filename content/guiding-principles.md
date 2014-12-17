@@ -8,11 +8,13 @@
 #### We care deeply about:
 - Integrity – #KeepingOurWord
 - Mastery – Becoming very good at what we do
-- Having a Culture of Learning
+- Having a [Culture of Learning](/content/learning.md)
 
 #### We believe people can be self-governed.
 
 This means you'll have a lot of freedom to choose what to work on, when to work on it, and where to work from. This also means that you will have a lot of say into what we will choose to work on as a company.
+
+We strive for simplicity. Few job titles, few departments, few hierarchies. We are builders and storytellers. We want to get better at what we love to do, work hard, and strive for mastery.
 
 This works well because:
 - We have two clear reasons for why we exist (see above), and everyone at Junto is on board with them.
