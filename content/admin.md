@@ -1,7 +1,7 @@
 # Administration
 
 ## Payments
-Payments are made the last friday of the month. If a payday falls on a nonworking day, we'll use the preceding day.
+Payments are made the last friday of the month. If a payday falls on a nonworking day, we'll use the preceding workday.
 
 ## Expenses
 Expenses under $50USD don't need prior approval. Reimbursements will be made only upon receipt (digital or physical). Use your best judgement on how much to spend and what is a business expense.
