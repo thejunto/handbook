@@ -1,4 +1,4 @@
-# A Culture of Learning
+# Our Culture of Learning
 
 We set out on this journey to learn. We believe that learning is a life-long habit. We want to be the examples for others of how fun and different education can be!
 
