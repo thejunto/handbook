@@ -47,4 +47,9 @@ A project lead's main responsibility is to bring up the conversations necessary 
 
 ## Design
 
+---
+
+#### Resources:
+[Ryan Carson's blog posts on how Treeehouse manages projects](http://ryancarson.com/post/61606695537/how-to-set-priorities-create-budgets-and-do)
+
 
