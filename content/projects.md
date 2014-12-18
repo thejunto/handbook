@@ -32,7 +32,7 @@ This is what we look for in our clients and the projects we take:
 - We can learn a lot from them.
 - They understand and value highly the work we do and how we do it.
 - We believe we can add a lot of value to their business.
-- They can Keep Their Word and have high integrity.
+- They can #KeepTheirWord and have high integrity.
 
 We track our leads using the *Sales Funnel Board* in our Trello. The person responsible for the lead is also responsible for updating his/her card on Trello.
 

@@ -6,7 +6,7 @@
 2. **To create an environment where WE could learn.** Learn about technology, entrepreneurship, design, and how to live a life of meaning. Learn with people who challenge us, who encourage us, and who are willing to go to the end of the universe with us.
 
 #### We care deeply about:
-- Integrity – Keeping our Word
+- Integrity – #KeepingOurWord
 - Mastery – Becoming very good at what we do
 - Having a [Culture of Learning](/content/learning.md)
 
