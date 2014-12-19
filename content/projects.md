@@ -53,6 +53,14 @@ A project lead's main responsibility is to bring up the conversations necessary 
 
 ## Development
 
+_pending_
+
+In this section we'll talk about some development guidelines. I'll outline them here so I don't forget to include them later
+
+* All external links should have `target: :_blank`
+* Indent correctly. Follow the file's style. If the author indented with two spaces, so should you.
+* In Ruby files, tabs = 2 spaces. In HTML ones you can choose the one you like best
+
 ## Design
 
 ---
