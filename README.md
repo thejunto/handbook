@@ -10,7 +10,7 @@ As you read this document keep in mind that it’s based on the journey we’ve 
 
 Happy sailing!
 
----
+----
 
 ### Index:
 
