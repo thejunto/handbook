@@ -60,7 +60,8 @@ In this section we'll talk about some development guidelines. I'll outline them 
 * All external links should have `target: :_blank`
 * Indent correctly. Follow the file's style. If the author indented with two spaces, so should you.
 * In Ruby files, tabs = 2 spaces. In HTML ones you can choose the one you like best
-
+* When creating a string column, always set the default string to "".
+* Avoid inline comments. Put them in a separate line above the code.
 ## Design
 
 ---
