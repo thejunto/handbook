@@ -19,11 +19,11 @@ At Junto, everyone does Sales. The process looks like this:
 2. They fill out our Questionnaire (You can find it on our Junto Studio project on Basecamp)
 3. We Hangout/Skype with them if necessary.
 4. We discuss the project with the team. We figure out: 
-		+ If we want to take it
-		+ if we'll learn enough from doing it
-		+ how much time it will take
-		+ how much it'll cost
-		+ who'll be involved
+	+ If we want to take it
+	+ if we'll learn enough from doing it
+	+ how much time it will take
+	+ how much it'll cost
+	+ who'll be involved
 5. Send out a quote. (You can find the template on our Junto Studio project on Basecamp)
 6. The client makes the downpayment.
 7. We begin work.
