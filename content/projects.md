@@ -53,11 +53,6 @@ A project lead's main responsibility is to bring up the conversations necessary 
 
 ## Development
 
-Este es un test. 
-
-* Primera cosa
-* Segunda cosa
-
 ## Design
 
 ---
