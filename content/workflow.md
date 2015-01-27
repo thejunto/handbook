@@ -24,7 +24,9 @@ We [work remotely](/content/remote.md) part of the time, which means it's really
 There are two ways we keep each other accountable:
 
 1. We keep our to-do's on a project management tool called [Basecamp](www.basecamp.com). With Basecamp, everyone knows who's in charge of what and when it's due. At the end of the day Basecamp automatically sends an email with a summary of what everyone accomplished for that day. 
-2. We also have an #accountability channel on Slack where we check-in at the the start of our workday by saying what we will be working on that day. This is to help keep everybody in the loop of what you're working on and it allows us to coordinate efforts better. (We've found that using this channel has become invaluable.) At the end of your workday or periodically you can post a status on what you've accomplished and how the day went.
+2. We also have an #accountability channel on Slack where we:
+    - Check-in at the the start of our workday by saying what we will be working on that day. This is to help keep everybody in the loop of what you're working on and it allows us to coordinate efforts better. (We've found that using this channel has become invaluable.) 
+    - Check-out at the end of your workday (or periodically) by posting what you've accomplished and how the day went. We encourage posting work samples (e.g. documents, designs, commits) over just words.
 
 ![accountability](/images/accountability.png)
 
