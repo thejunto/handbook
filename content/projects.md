@@ -36,7 +36,8 @@ This is what we look for in our clients and the projects we take:
 - We believe we can add a lot of value to their business.
 - They can #KeepTheirWord and have high integrity.
 
-We track our leads using the *Sales Funnel Board* in our Trello. 
+We track our leads using the *Sales Funnel Board* in our Trello.
+
 1. A new lead comes in, either through the website, email or through personal relationships.
 1. Whoever adds the card to Trello assigns it to Sales Guru in turn (currently Majo until the end of March), which in turn assigns it to a volunteer, if there is one. This is done by "putting the person's face" on it. 
 1. This person is responsible for leading the client from the first interaction until we Skype/Hangout with them.
