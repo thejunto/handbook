@@ -15,18 +15,26 @@
 ## Sales
 At Junto, everyone is involved in Sales. The process looks like this:
 
+#### First Contact
 1. Someone contacts us.
 1. A card gets created and assigned to a team member (usually the Sales Guru) on Trello.
 1. The assigned team member sends our Questionnaire (You can find it on our Junto Studio project on Basecamp) for the client to answer. 
 1. The client fills out the Questionnaire.
+1. We do a quick Hangout/Skype call (10min usually) to understand what the project is about.
+
+#### Discovery
 1. We figure out who'll be involved.
-1. The involved team Hangout/Skype with the client to understand the project better.
+1. The team for the project goes over the client's answers and the first Skype call's notes and brainstorms a solution.
+1. The involved team Hangouts/Skypes with the client to propose the solution.
+	+ Good discovery takes usually takes 2 or 3 interactions. If our solution is not what the client is looking for, we go back to the drawing board. If it is, we move on to the next step.
+
+#### Closing
 1. We discuss the project with the team. We figure out: 
-		+ If we want to take it
-		+ if we'll learn enough from doing it
-		+ how much time it will take
-		+ how much it'll cost
-1. Send out a quote. (You can find the template on our Junto Studio project on Basecamp)
+	+ If we want to take it
+	+ if we'll learn enough from doing it
+	+ how much time it will take
+	+ how much it'll cost
+1. We Schedule a final Skype call to present the proposal. We go over each line in the proposal with the client to make sure we're both on the same terms. (You can find the template for the proposal on our Junto Studio project on Basecamp)
 1. The client makes the downpayment (usually 50%).
 1. We begin work.
 
