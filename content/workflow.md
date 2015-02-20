@@ -38,6 +38,8 @@ You should check-in saying you accomplished your weekly **Work Priority** no lat
 - What valuable lessons can we all learn from this.
 - What are the next steps for completing the failed task.
 
+We see failure as an opportunity to learn. This meetings are positive, helpful, and fun.
+
 ## Over-communicate
 
 We over-communicate with clients to avoid having scheduled meetings. Every problem arises from poor communication.
