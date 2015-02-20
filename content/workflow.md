@@ -83,6 +83,21 @@ This is the process an idea usually goes through:
 
 ![workflow](/images/workflow.jpg)
 
+## Starting a Project
+If you're thinking about doing something that might take several weeks, lots of people, or just has too many to-do's to keep in one Basecamp List, it might be a good time to start a project.
+
+Projects are longer term, more complex objectives we put for ourselves. Things like doing a brand redesign, recording a marketing video or starting a new web product.
+
+Same as with an idea, you should present it to the team, and once you have more than just yourself on board with the idea:
+- Post it to our Projects To-do List in the Junto Studio project in Basecamp.
+- Add thses three things as a comment to the to-do:
+  + Description
+  + Objective
+  + How will I measure success?
+
+Quick note: Avoid leading more than 2 projects at a time.
+
+
 ## Overlaps
 
 Overlaps are a big part of what makes Junto work, because this is the time when a
