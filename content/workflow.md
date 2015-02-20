@@ -5,6 +5,7 @@ At Junto we believe that everyone is capable of managing their own time, setting
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
 - [Overcommunicate](#over-communicate)
+- [Consequences](#consequences)
 - [From Idea to Action](#from-idea-to-action)
 - [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
@@ -29,6 +30,13 @@ There are two ways we keep each other accountable:
     - Check-out at the end of your workday (or periodically) by posting what you've accomplished and how the day went. We encourage posting work samples (e.g. documents, designs, commits) over just words.
 
 ![accountability](/images/accountability.png)
+
+## Consequences
+You should check-in saying you accomplished your weekly **Work Priority** no later than Saturday at 4am. If you fail to do so, on Monday at noon, everyone will stop what they're working on and have a Skype call with you to discuss:
+- Why you failed.
+- What you can do next time to avoid the same mistakes.
+- What valuable lessons can we all learn from this.
+- What are the next steps for completing the failed task.
 
 ## Over-communicate
 
