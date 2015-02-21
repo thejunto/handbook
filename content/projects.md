@@ -6,7 +6,7 @@
 - [Development](#development)
 - [Design](#design)
 
-## We believe in: 
+## We believe in:
 
 - Asking the right questions. Clear communication.
 - Trial and error.
@@ -17,24 +17,32 @@ At Junto, everyone is involved in Sales. The process looks like this:
 
 #### First Contact
 1. Someone contacts us.
-1. A card gets created and assigned to a team member (usually the Sales Guru) on Trello.
-1. The assigned team member sends our Questionnaire (You can find it on our Junto Studio project on Basecamp) for the client to answer. 
+1. A card gets created and assigned to a team member (usually the Sales Guru)
+on Trello.
+1. The assigned team member sends our Questionnaire (You can find it on our
+  Junto Studio project on Basecamp) for the client to answer.
 1. The client fills out the Questionnaire.
-1. We do a quick Hangout/Skype call (10min usually) to understand what the project is about.
+1. We do a quick Hangout/Skype call (10min usually) to understand what the
+project is about.
 
 #### Discovery
 1. We figure out who'll be involved.
-1. The team for the project goes over the client's answers and the first Skype call's notes and brainstorms a solution.
+1. The team for the project goes over the client's answers and the first Skype
+call's notes and brainstorms a solution.
 1. The involved team Hangouts/Skypes with the client to propose the solution.
-	+ Good discovery takes usually takes 2 or 3 interactions. If our solution is not what the client is looking for, we go back to the drawing board. If it is, we move on to the next step.
+  + Good discovery takes usually takes 2 or 3 interactions. If our solution is
+  not what the client is looking for, we go back to the drawing board. If it is,
+  we move on to the	next step.
 
 #### Closing
-1. We discuss the project with the team. We figure out: 
-	+ If we want to take it
-	+ if we'll learn enough from doing it
-	+ how much time it will take
-	+ how much it'll cost
-1. We Schedule a final Skype call to present the proposal. We go over each line in the proposal with the client to make sure we're both on the same terms. (You can find the template for the proposal on our Junto Studio project on Basecamp)
+1. We discuss the project with the team. We figure out:
+  + If we want to take it
+  + if we'll learn enough from doing it
+  + how much time it will take
+  + how much it'll cost
+1. We Schedule a final Skype call to present the proposal. We go over each line
+in the proposal with the client to make sure we're both on the same terms.
+(You can find the template for the proposal on our Junto Studio project on Basecamp)
 1. The client makes the downpayment (usually 50%).
 1. We begin work.
 
@@ -47,7 +55,7 @@ This is what we look for in our clients and the projects we take:
 We track our leads using the *Sales Funnel Board* in our Trello.
 
 1. A new lead comes in, either through the website, email or through personal relationships.
-1. Whoever adds the card to Trello assigns it to Sales Guru in turn (currently Majo until the end of March), which in turn assigns it to a volunteer, if there is one. This is done by "putting the person's face" on it. 
+1. Whoever adds the card to Trello assigns it to Sales Guru in turn (currently Majo until the end of March), which in turn assigns it to a volunteer, if there is one. This is done by "putting the person's face" on it.
 1. This person is responsible for leading the client from the first interaction until we Skype/Hangout with them.
 
 ## How to manage a new project
@@ -75,5 +83,3 @@ Check out our [Development Guidelines](https://github.com/thejunto/guides)
 
 #### Resources:
 [Ryan Carson's blog posts on how Treeehouse manages projects](http://ryancarson.com/post/61606695537/how-to-set-priorities-create-budgets-and-do)
-
-
