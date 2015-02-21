@@ -85,7 +85,7 @@ This is the process an idea usually goes through:
 ![workflow](/images/workflow.jpg)
 
 ## Starting a Project
-If you're thinking about doing something that might take several weeks, lots of people, or just has too many to-do's to keep in one Basecamp List, it might be a good time to start a project.
+If you're thinking about doing something that might take longer than 2 weeks, lots of people, or just has too many to-do's to keep in one Basecamp List, it might be a good time to start a project.
 
 Projects are longer term, more complex objectives we put for ourselves. Things like doing a brand redesign, recording a marketing video or starting a new web product.
 
