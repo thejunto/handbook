@@ -9,6 +9,7 @@ So how do we create the Junto culture and stay informed with everybody everywher
 - [Accountability](#accountability)
 - [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
+- [Starting a Project](#starting-a-project)
 - [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
 
@@ -88,15 +89,14 @@ If you're thinking about doing something that might take several weeks, lots of 
 
 Projects are longer term, more complex objectives we put for ourselves. Things like doing a brand redesign, recording a marketing video or starting a new web product.
 
-Same as with an idea, you should present it to the team, and once you have more than just yourself on board with the idea:
+Same as with an idea, you should present it to the team, and once you have more than just yourself on board with the project:
 - Post it to our Projects To-do List in the Junto Studio project in Basecamp.
-- Add thses three things as a comment to the to-do:
+- Add these three things as a comment to the to-do:
   + Description
   + Objective
   + How will I measure success?
 
 Quick note: Avoid leading more than 2 projects at a time.
-
 
 ## Overlaps
 
