@@ -9,6 +9,7 @@ So how do we create the Junto culture and stay informed with everybody everywher
 - [Accountability](#accountability)
 - [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
+- [Starting a Project](#starting-a-project)
 - [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
 
@@ -74,7 +75,8 @@ This is the process an idea usually goes through:
 1. Post the idea on the 'Everything' board in Trello, under the
 '(name of project) Ideas' list.
 2. Discuss the idea with the team over Slack.
-3. If we chose to implement the idea, move it to the 'Ideas We Decided to Implement' list on the same Trello board.
+3. If we chose to implement the idea, move it to the "Ideas We Decided to
+Implement" list on the same Trello board.
 4. When we decide who will be responsible for bringing the idea to life and when
  it should be done, move the idea to our Basecamp list on Trello and add it to the
  corresponding project on Basecamp. Don't forget to assign the to-do to the right
@@ -82,6 +84,25 @@ This is the process an idea usually goes through:
 5. The Basecamp to-do gets completed and the idea goes live.
 
 ![workflow](/images/workflow.jpg)
+
+## Starting a Project
+If you're thinking about doing something that might take longer than 2 weeks,
+lots of people, or just has too many to-do's to keep in one Basecamp List, it
+ might be a good time to start a project.
+
+Projects are longer term, more complex objectives we put for ourselves. Things
+ like doing a brand redesign, recording a marketing video or starting a new web
+ product.
+
+Same as with an idea, you should present it to the team, and once you have more
+than just yourself on board with the project:
+- Post it to our Projects To-do List in the Junto Studio project in Basecamp.
+- Add these three things as a comment to the to-do:
+  + Description
+  + Objective
+  + How will I measure success?
+
+Quick note: Avoid leading more than 2 projects at a time.
 
 ## Overlaps
 
