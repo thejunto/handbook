@@ -8,6 +8,7 @@ So how do we create the Junto culture and stay informed with everybody everywher
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
 - [Overcommunicate](#over-communicate)
+- [Consequences](#consequences)
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
 - [Overlaps](#overlaps)
@@ -51,6 +52,15 @@ There are two ways we keep each other accountable:
       (e.g. documents, designs, commits) over just words.
 
 ![accountability](/images/accountability.png)
+
+## Consequences
+You should check-in saying you accomplished your weekly **Work Priority** no later than Saturday at 4am. If you fail to do so, on Monday at noon, everyone will stop what they're working on and have a Skype call with you to discuss:
+- Why you failed.
+- What you can do next time to avoid the same mistakes.
+- What valuable lessons can we all learn from this.
+- What are the next steps for completing the failed task.
+
+We see failure as an opportunity to learn. These meetings are positive, helpful, and fun.
 
 ## Over-communicate
 
