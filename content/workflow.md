@@ -65,9 +65,10 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
-#### First fail:
 You should check-in saying you accomplished your weekly **Work Priority** no later 
-than Saturday at 4am. If you fail to do so, on Monday at noon, everyone will stop what
+than Saturday at 4am.
+#### First fail:
+If you fail to do so, on Monday at noon, everyone will stop what
 they're working on and have a Skype call with you to discuss:
 - Why you failed.
 - What you can do next time to avoid the same mistakes.
