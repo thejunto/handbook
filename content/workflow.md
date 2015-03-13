@@ -7,29 +7,40 @@ So how do we create the Junto culture and stay informed with everybody everywher
 
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
-- [Overcommunicate](#over-communicate)
 - [Consequences](#consequences)
+- [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
 - [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
 
+What a priority looks like: 
+
 ## How we set priorities:
-We set our priorities for the week every Monday during our [overlap](#overlaps).
-The idea is to discuss "what are the most important things we should get done
-(as a company) for this week?"
+Every Monday we set two priorities for the week during our [overlap](#overlaps).
 
-Towards the end of the overlap everyone chooses a work priority and a personal
-priority.
-- **Work Priority**: How you are going to contribute to accomplishing the
-companies goals, for the current week.
-- **Personal Priority**: Something personal that you want to work on this week.
-Examples: Practice a habit, learn something new, get something done. Past
-examples have included: finishing coding guidelines, going through a code academy
-course, reading Alan Turing's biography, visiting grandma.
+1. **Work Priority**: What is the most important thing you will do
+for the company this week? 
+This priority needs to be approved by everyone else on the team during the overlap.
+  Examples: 
+  - Call 25 potential clients with the purpose of closing 20k in sales.
+  - Send final invoice and thank-you card to our client with the purpose of closing the project.
+  - Complete the Design Sprint with XYZ client with the purpose of giving a prototype to our dev team.
+  - Have a first version of the website live to show to the client.
+  - Present the Sales Plan for the upcoming month with the purpose of reaching X amount in sales next month.
+2. **Learning Priority**: What will you learn this week? 
+Examples:
+  - 30 min of Angular.js every day.
+  - Complete two chapters of the Michael Hartl tutorial.
+  - Read 25% of Alan Turing's biography.
+  
+Good goals are SMART:
+- **S**pecific – What? Who? When? Where? Why?
+- **M**easurable – How will I know when it is accomplished? What metrics will I use?
+- **A**chievable –How realistic is the goal based on other constraints?
+- **R**elevant - Does this seem worthwhile? Is this the right time? Does this match our other efforts/needs? Are you the right person?
+- **T**ime-bound – When will this be done?
 
-After Monday's overlap, everyone will be aware of everyone else's priorities for
-the week.
 
 ## Accountability
 We [work remotely](/content/remote.md) part of the time, which means it's really
@@ -54,13 +65,23 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
-You should check-in saying you accomplished your weekly **Work Priority** no later than Saturday at 4am. If you fail to do so, on Monday at noon, everyone will stop what they're working on and have a Skype call with you to discuss:
+You should check-in saying you accomplished your weekly **Work Priority** no later 
+than Saturday at 4am.
+#### First fail:
+If you fail to do so, on Monday at noon, everyone will stop what
+they're working on and have a Skype call with you to discuss:
 - Why you failed.
 - What you can do next time to avoid the same mistakes.
 - What valuable lessons can we all learn from this.
 - What are the next steps for completing the failed task.
 
+You will need to continue with the same priority for next week.
+
 We see failure as an opportunity to learn. These meetings are positive, helpful, and fun.
+
+#### Second fail in a row:
+You will be asked to leave Junto. If it's unclear whether you failed or not, 
+the team will take a vote, majority wins.
 
 ## Over-communicate
 
