@@ -21,7 +21,7 @@ When you walk into a traditional office, you expect to see other people working.
 
 Now imagine the opposite: waking up looking forward for the projects you'll work on during the day, and entering an empty, silent office. 
 
-At Junto, we like to work in an atmosphere where you'll never feel like entering an empty 'office'. And since we work remotely, we use Slack as our headquarters. We value working simultaneosly because we can keep ourselves accountable, ask and give help, motivate each other, and work consistently every day. We bring together the best of two worlds by working remotely, while doing it simultaneously. 
+At Junto, we like to work in an atmosphere where you'll never feel like entering an empty 'office'. And since we work remotely, we use Slack as our headquarters. We value working simultaneously because we can keep ourselves accountable, ask and give help, motivate each other, and work consistently every day. We bring together the best of two worlds by working remotely, while doing it simultaneously. 
 
 **How do we work simultaneously:**
 
