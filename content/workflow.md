@@ -5,55 +5,15 @@ their own priorities and keeping their word. We like being able to work from
 anywhere in the world and still be able to deliver great work. (Living the dream!)
 So how do we create the Junto culture and stay informed with everybody everywhere?
 
-- [Working simultaneously](#working-simultaneously)
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
 - [Consequences](#consequences)
+- [Working simultaneously](#working-simultaneously)
 - [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
 - [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
-
-## Working simultaneously:
-
-When you walk into a traditional office, you expect to see other people 
-working. You might want to know how their day is going and ask for help if you 
-need it. Although everyone's working with different projects from their own 
-desks, it feels encouraging to know that your team is also pouring their efforts 
-on their work, and that they're just a couple of steps aways if you need them. 
-
-Now imagine the opposite: waking up looking forward for the projects you'll work 
-on during the day, and entering an empty, silent office. 
-
-At Junto, we like to work in an atmosphere where you'll never feel like entering
-an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
-We value working simultaneously because we can keep ourselves accountable, ask 
-and give help, motivate each other, and work consistently every day. We bring 
-together the best of two worlds by working remotely, while doing it 
-simultaneously. 
-
-**How we work simultaneously:**
-
-Every day, we work at the same time during 4 hours. We have an #accountability 
-channel on Slack where we post our plan for the day during the first 10 minutes 
-of our 4-hour timeshare. After that, each one of us works on their own tasks. 
-
-Since we're all in Slack, we are expected to respond within 5 minutes. 
-'Being available' is the metric we use to make sure we're all together on the 
-same 'floor'. Because of this, we make sure to announce if we'll be away at some 
-moment. 
-
-**Schedules**
-
-**SF** 7:00 am - 11:00 am
-**GT** 8:00 am - 12:00 pm
-**AU** 9:00 am - 1:00 pm
-
-**Consequences:**
-
-If we don't check-in during the first 10 minutes or have to leave early, we have 
-a 5% payroll deduction. 
 
 ## How we set priorities:
 Every Monday we set two priorities for the week during our [overlap](#overlaps).
@@ -121,6 +81,48 @@ We see failure as an opportunity to learn. These meetings are positive, helpful,
 #### Second fail in a row:
 You will be asked to leave Junto. If it's unclear whether you failed or not, 
 the team will take a vote, majority wins.
+
+## Working simultaneously:
+
+When you walk into a traditional office, you expect to see other people 
+working. You might want to know how their day is going and ask for help if you 
+need it. Although everyone's working with different projects from their own 
+desks, it feels encouraging to know that your team is also pouring their efforts 
+on their work, and that they're just a couple of steps aways if you need them. 
+
+![full_office](/images/full_office.jpg)
+
+Now imagine the opposite: waking up looking forward for the projects you'll work 
+on during the day, and entering an empty, silent office. 
+
+![empty_office](/images/empty_office.jpg)
+
+At Junto, we like to work in an atmosphere where you'll never feel like entering
+an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
+We value working simultaneously because we can keep ourselves accountable, ask 
+and give help, motivate each other, and work consistently every day. We bring 
+together the best of two worlds by working remotely, while doing it 
+simultaneously. 
+
+**How we work simultaneously:**
+
+Every day, we work at the same time during 4 hours. We have an #accountability 
+channel on Slack where we post our plan for the day during the first 10 minutes 
+of our 4-hour timeshare. After that, each one of us works on their own tasks. 
+
+Since we're all in Slack, we are expected to respond within 5 minutes. 
+'Being available' is the metric we use to make sure we're all together on the 
+same 'floor'. Because of this, we make sure to announce if we'll be away at some 
+moment. 
+
+**Schedule**
+
+8am -12pm (GMT-6:00) [Guatemala time]
+
+**Consequences:**
+
+If we don't check-in during the first 10 minutes or have to leave early, we have 
+a 5% payroll deduction. 
 
 ## Over-communicate
 
