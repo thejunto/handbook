@@ -44,11 +44,9 @@ Since we're all in Slack, we respond within 5 minutes.
 'Being available' is the metric we use to make sure we're all together on the same 'floor'. 
 Because of this, we make sure to announce if we'll be away at some moment. 
 
-**Schedules**
+**Our schedule**
 
-**SF** 7:00 am - 11:00 am
-**GT** 8:00 am - 12:00 pm
-**AU** 9:00 am - 1:00 pm
+8am - 12pm (GMT-6:00) [Guatemala time]
 
 **Consequences:**
 
