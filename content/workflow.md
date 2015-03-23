@@ -30,6 +30,12 @@ Every day, we work at the same time during 4 hours. We have an #accountability c
 
 Since we're all in Slack, we respond within 5 minutes. 'Being available' is the metric we use to make sure we're all together on the same 'floor'. Because of this, we make sure to announce if we'll be away at some moment. 
 
+**Schedules**
+
+**SF** 7:00 am - 11:00 am
+**GT** 8:00 am - 12:00 pm
+**AU** 9:00 am - 1:00 pm
+
 **Consequences:**
 
 1. If we don't check-in during the first 10 minutes, we have to leave and we have a 5% payroll deduction. 
@@ -73,7 +79,7 @@ There are two ways we keep each other accountable:
   With Basecamp, everyone knows who's in charge of what and when it's due. At the
   end of the day Basecamp automatically sends an email with a summary of what
   everyone accomplished for that day.
-2. We use the #accountability channel on Slack where we:
+2. We use the #accountability channel on Slack to:
     - Check-in at the the start of our workday by saying what we will be working
      on that day. This is to help keep everybody in the loop of what you're
      working on and it allows us to coordinate efforts better. (We've found that
