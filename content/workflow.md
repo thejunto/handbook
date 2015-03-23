@@ -18,11 +18,11 @@ So how do we create the Junto culture and stay informed with everybody everywher
 ## Working simultaneously:
 
 When you walk into a traditional office, you expect to see other people 
-working. You might want to know how is their day, and ask for help if you need it 
-with some task. Although everyone's working with different projects 
-from their own desks, it feels encouraging to know that your team is also pouring 
-their efforts on their work, and that they're just a couple of steps aways if you 
-need them. 
+working. You might want to know how their day is going and ask for help if you 
+need it . Although everyone's working with different projects from their own 
+desks, it feels encouraging to know that your team is also pouring 
+their efforts on their work, and that they're just a couple of steps aways if 
+you need them. 
 
 Now imagine the opposite: waking up looking forward for the projects you'll work 
 on during the day, and entering an empty, silent office. 
@@ -31,7 +31,8 @@ At Junto, we like to work in an atmosphere where you'll never feel like entering
 an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
 We value working simultaneously because we can keep ourselves accountable, 
 ask and give help, motivate each other, and work consistently every day. 
-We bring together the best of two worlds by working remotely, while doing it simultaneously. 
+We bring together the best of two worlds by working remotely, while doing it 
+simultaneously. 
 
 **How do we work simultaneously:**
 
@@ -41,8 +42,9 @@ during the first 10 minutes of our 4-hour timeshare. After that, each one of us
 work on their own tasks. 
 
 Since we're all in Slack, we respond within 5 minutes. 
-'Being available' is the metric we use to make sure we're all together on the same 'floor'. 
-Because of this, we make sure to announce if we'll be away at some moment. 
+'Being available' is the metric we use to make sure we're all together on the 
+same 'floor'. Because of this, we make sure to announce if we'll be away at some 
+moment. 
 
 **Schedules**
 
