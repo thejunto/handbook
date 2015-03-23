@@ -19,20 +19,20 @@ So how do we create the Junto culture and stay informed with everybody everywher
 Every Monday we set two priorities for the week during our [overlap](#overlaps).
 
 1. **Work Priority**: What is the most important thing you will do
-for the company this week? 
+for the company this week?
 This priority needs to be approved by everyone else on the team during the overlap.
-  Examples: 
+  Examples:
   - Call 25 potential clients with the purpose of closing 20k in sales.
   - Send final invoice and thank-you card to our client with the purpose of closing the project.
   - Complete the Design Sprint with XYZ client with the purpose of giving a prototype to our dev team.
   - Have a first version of the website live to show to the client.
   - Present the Sales Plan for the upcoming month with the purpose of reaching X amount in sales next month.
-2. **Learning Priority**: What will you learn this week? 
+2. **Learning Priority**: What will you learn this week?
 Examples:
   - 30 min of Angular.js every day.
   - Complete two chapters of the Michael Hartl tutorial.
   - Read 25% of Alan Turing's biography.
-  
+
 Good goals are SMART:
 - **S**pecific – What? Who? When? Where? Why?
 - **M**easurable – How will I know when it is accomplished? What metrics will I use?
@@ -64,7 +64,7 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
-You should check-in saying you accomplished your weekly **Work Priority** no later 
+You should check-in saying you accomplished your weekly **Work Priority** no later
 than Saturday at 4am.
 #### First fail:
 If you fail to do so, on Monday at noon, everyone will stop what
@@ -79,50 +79,50 @@ You will need to continue with the same priority for next week.
 We see failure as an opportunity to learn. These meetings are positive, helpful, and fun.
 
 #### Second fail in a row:
-You will be asked to leave Junto. If it's unclear whether you failed or not, 
+You will be asked to leave Junto. If it's unclear whether you failed or not,
 the team will take a vote, majority wins.
 
 ## Working simultaneously:
 
-When you walk into a traditional office, you expect to see other people 
-working. You might want to know how their day is going and ask for help if you 
-need it. Although everyone's working with different projects from their own 
-desks, it feels encouraging to know that your team is also pouring their efforts 
-on their work, and that they're just a couple of steps aways if you need them. 
+When you walk into a traditional office, you expect to see other people
+working. You might want to know how their day is going and ask for help if you
+need it. Although everyone's working with different projects from their own
+desks, it feels encouraging to know that your team is also pouring their efforts
+on their work, and that they're just a couple of steps aways if you need them.
 
-![full_office](/images/full_office.jpg)
-
-Now imagine the opposite: waking up looking forward for the projects you'll work 
-on during the day, and entering an empty, silent office. 
+Now imagine the opposite: waking up looking forward for the projects you'll work
+on during the day, and entering an empty, silent office.
 
 ![empty_office](/images/empty_office.jpg)
 
 At Junto, we like to work in an atmosphere where you'll never feel like entering
-an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
-We value working simultaneously because we can keep ourselves accountable, ask 
-and give help, motivate each other, and work consistently every day. We bring 
-together the best of two worlds by working remotely, while doing it 
-simultaneously. 
+an empty 'office'. And since we work remotely, we use Slack as our headquarters.
+We value working simultaneously because we can keep ourselves accountable, ask
+and give help, motivate each other, and work consistently every day. We bring
+together the best of two worlds by working remotely, while doing it
+simultaneously.
 
-**How we work simultaneously:**
+![full_office](/images/full_offices.jpg)
 
-Every day, we work at the same time during 4 hours. We have an #accountability 
-channel on Slack where we post our plan for the day during the first 10 minutes 
-of our 4-hour timeshare. After that, each one of us works on their own tasks. 
+####How we work simultaneously:
 
-Since we're all in Slack, we are expected to respond within 5 minutes. 
-'Being available' is the metric we use to make sure we're all together on the 
-same 'floor'. Because of this, we make sure to announce if we'll be away at some 
-moment. 
+Every day, we work at the same time during 4 hours. We have an #accountability
+channel on Slack where we post our plan for the day during the first 10 minutes
+of our 4-hour timeshare. After that, each one of us works on their own tasks.
 
-**Schedule**
+Since we're all in Slack, we are expected to respond within 5 minutes.
+'Being available' is the metric we use to make sure we're all together on the
+same 'floor'. Because of this, we make sure to announce if we'll be away at some
+moment.
+
+####Schedule
 
 8am -12pm (GMT-6:00) [Guatemala time]
 
-**Consequences:**
+####Consequences:
 
-If we don't check-in during the first 10 minutes or have to leave early, we have 
-a 5% payroll deduction. 
+If we don't check-in during the first 10 minutes or have to leave early, we have
+a 5% payroll deduction.
 
 ## Over-communicate
 
