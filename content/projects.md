@@ -126,6 +126,8 @@ Check out our [Development Guidelines](https://github.com/thejunto/guides)
 
 ## Design
 
+Check out our [Design Guidelines](https://github.com/thejunto/design)
+
 ---
 
 #### Resources:
