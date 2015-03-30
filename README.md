@@ -23,9 +23,24 @@ Happy sailing!
 
 - [Guiding Principles](/content/guiding-principles.md)
 - [Why We Need To Change Education](/content/education.md)
-- [Our Culture of Learning: Culture Fridays, Dialogues, Independent Learning, etc.](/content/learning.md)
-- [Workflow: How we choose what to work on, Accountability and Consequences, Working simultaneously, Overlaps](/content/workflow.md)
-- [Project Management: Sales, Management, Development, Design](/content/projects.md)
+- [Our Culture of Learning](/content/learning.md)
+  * Culture Fridays
+  * Dialogues
+  * Independent Learning
+- [Workflow](/content/workflow.md)
+  * How we choose what to work on
+  * Accountability and Consequences
+  * Working simultaneously
+  * Overlaps
+  * Fail Calls
+- [Project Management](/content/projects.md)
+  * Sales
+  * Management
+  * Development
+  * Design
 - [Tips for Working Remotely](/content/remote.md)
 - [Sharing: Blog, Twitter, etc.](/content/sharing.md)
-- [Administration: Payments, Expenses, Vacations/Time-Off](/content/admin.md)
+- [Administration](/content/admin.md)
+  * Payments
+  * Expenses
+  * Vacations/Time-Off
