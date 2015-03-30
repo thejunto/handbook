@@ -32,6 +32,7 @@ Happy sailing!
   * Accountability and Consequences
   * Working simultaneously
   * Overlaps
+  * Fail Calls
 - [Project Management](/content/projects.md)
   * Sales
   * Management
