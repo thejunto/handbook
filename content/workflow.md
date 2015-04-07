@@ -210,5 +210,5 @@ a theme.
 - **Gmail** as our Email.
 - **Google Calendar** for all our meetings and events.
 - **Google Hangouts** for online calls.
-- **Bitbucket** to host our private code.
-- **Github** to host our public code.
+- **Github** to host code we're currently working on, plus any open source.
+- **Bitbucket** to host private code we're no longer actively working on.
