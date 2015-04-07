@@ -183,14 +183,15 @@ lot of decisions are made, and bottlenecks are sorted out. Everyone on the team
 chats on Slack for about 30 minutes and each day of the week has
 a theme.
 
-- Monday: Setting priorities. 8:00AM (GMT-6:00)
-    + Reach clear company wide and individual priorities.
-    + Note: Before the Monday overlap, please visit the Everything Trello board
-     to ensure we don't miss any important to-do's
-- Tuesday: Workflow and Product Development. 10:30AM (GMT-6:00)
-    + Discuss our workflow and our processes. What can we improve? What would
-    make us more productive? Happier?
-    + Resolve possible bottlenecks
+- Monday: Setting priorities. 
+    + 8:00 to 8:15AM (GMT-6:00) - Hangout <br>
+    Getting up to date. (Presentación y QA sobre web dev, productos propios, blog)
+    + 8:45 to 9:15AM - Overlap
+- Tuesday: Workflow 10:30AM (GMT-6:00)
+    + Talk about our work processes at a metacognitive level. 
+    What can we improve? What would make us more productive? Happier? 
+    Propose new Pull Requests.
+    + Address open Pull Requests (if any).
 - Wednesday: Growth. 12:30AM (GMT-6:00)
     + Define monthly goals in line with medium term goals.
     + Check-in with overall progress of monthly goals.
