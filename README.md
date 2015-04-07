@@ -21,11 +21,8 @@ Happy sailing!
 
 ### Index:
 
-- [Guiding Principles](/content/guiding-principles.md)
-- [Why We Need To Change Education](/content/education.md)
-- [Our Culture of Learning: Culture Fridays, Dialogues, Independent Learning, etc.](/content/learning.md)
-- [Workflow: How we choose what to work on, Accountability and Consequences, Working simultaneously, Overlaps](/content/workflow.md)
-- [Project Management: Sales, Management, Development, Design](/content/projects.md)
-- [Tips for Working Remotely](/content/remote.md)
-- [Sharing: Blog, Twitter, etc.](/content/sharing.md)
-- [Administration: Payments, Expenses, Vacations/Time-Off](/content/admin.md)
+- [How Our Guiding Principles Translate To Our Culture?](/content/our-culture.md)
+- [How We Work](/content/workflow.md)
+- [Projects: From Sales to Deployment](/content/projects.md)
+- [Sharing](/content/sharing.md)
+- [Administration](/content/admin.md)
