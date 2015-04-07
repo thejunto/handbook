@@ -180,18 +180,18 @@ Quick note: Avoid leading more than 2 projects at a time.
 
 Overlaps are a big part of what makes Junto work, because this is the time when a
 lot of decisions are made, and bottlenecks are sorted out. Everyone on the team
-chats on Slack for about 30 minutes (at 12.30pm CST) and each day of the week has
+chats on Slack for about 30 minutes and each day of the week has
 a theme.
 
-- Monday: Setting priorities.
+- Monday: Setting priorities. 8:00AM (GMT-6:00)
     + Reach clear company wide and individual priorities.
     + Note: Before the Monday overlap, please visit the Everything Trello board
      to ensure we don't miss any important to-do's
-- Tuesday: Workflow and Product Development.
+- Tuesday: Workflow and Product Development. 10:30AM (GMT-6:00)
     + Discuss our workflow and our processes. What can we improve? What would
     make us more productive? Happier?
     + Resolve possible bottlenecks
-- Wednesday: Growth.
+- Wednesday: Growth. 12:30AM (GMT-6:00)
     + Define monthly goals in line with medium term goals.
     + Check-in with overall progress of monthly goals.
     + Address growth concerns. What is blocking you from doing your best work?
@@ -200,7 +200,7 @@ a theme.
     + How did you feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
-- Friday: The Company and its Culture.
+- Friday: The Company and its Culture. 12:30AM (GMT-6:00)
     + Learn together. Learn about each other. Have a dialogue.
 
 *Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/).*
