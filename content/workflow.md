@@ -192,9 +192,12 @@ a theme.
     make us more productive? Happier?
     + Resolve possible bottlenecks
 - Wednesday: Growth.
-    + Check-in with our metrics. Discuss plans for growth.
+    + Define monthly goals in line with medium term goals.
+    + Check-in with overall progress of monthly goals.
+    + Address growth concerns. What is blocking you from doing your best work?
+    + How is your learning experience going?
 - Thursday: Feedback.
-    + How did we feel throughout the week?
+    + How did you feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
 - Friday: The Company and its Culture.
