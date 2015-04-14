@@ -201,8 +201,13 @@ a theme.
     + How did you feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
-- Friday: The Company and its Culture. 12:30AM (GMT-6:00)
+- Friday: The Company and its Culture. 3:30-6:30 (GMT-6:00)
     + Learn together. Learn about each other. Have a dialogue.
+    + GPS 3:30 - 4:30
+    + Break 4:30 - 4:45
+    + Bonding 4:45 - 5:15
+    + Diálogo: 5:15 - 6:15
+    + Debrief 6:15 - 6:30
 
 *Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/).*
 
