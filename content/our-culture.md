@@ -19,7 +19,7 @@ universe with us.
 #### We care deeply about:
 - Integrity – #KeepingOurWord
 - Mastery – Becoming very good at what we do
-- Having a [Culture of Learning](/content/learning.md)
+- Having a [Culture of Learning](#our-culture-of-learning)
 
 #### We believe people can be self-governed.
 
