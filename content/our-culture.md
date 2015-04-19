@@ -1,4 +1,4 @@
-# How our Guiding Principles Translate To Our Culture?
+# How our Guiding Principles Translate To Our Culture
 
 - [Guiding Principles](#guiding-principles)
 - [Why We Need to Change Education](#why-we-need-to-change-education)
