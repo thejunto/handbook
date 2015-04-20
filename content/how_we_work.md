@@ -1,4 +1,4 @@
-# Workflow
+# How We Work
 
 At Junto we believe that everyone is capable of managing their own time, setting
 their own priorities and keeping their word. We like being able to work from
@@ -183,7 +183,7 @@ lot of decisions are made, and bottlenecks are sorted out. Everyone on the team
 chats on Slack for about 30 minutes and each day of the week has
 a theme.
 
-- **Monday: Setting priorities (8:00AM)** _ - Usually a Google Hangout_
+- **Monday: Setting priorities (8:00AM)** - _Usually a Google Hangout_
     + 8:00 to 8:15AM - Getting up to date. (Q&A about web dev, own products, blog)
     + 8:15 to 8:45AM - Set priorities for the week.
 - **Tuesday: Workflow (10:30AM)**
