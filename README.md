@@ -22,7 +22,7 @@ Happy sailing!
 ### Index:
 
 - [How Our Guiding Principles Translate To Our Culture](/content/our-culture.md)
-- [How We Work](/content/workflow.md)
+- [How We Work](/content/how_we_work.md)
 - [Projects: From Sales to Deployment](/content/projects.md)
 - [Sharing](/content/sharing.md)
 - [Administration](/content/admin.md)
