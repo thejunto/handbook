@@ -206,7 +206,7 @@ _*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://t
 
 ## Culture Friday
 
-At Junto, we handle Fridays a little different than the rest of the day. We 
+At Junto, we handle Fridays a little different than the rest of the days. We 
 want to make sure that we stay close to each other as a team. That's why we
 have the Culture Friday, where we have fun, discuss about Junto Studio's 
 purpose, and talk about the things we're interested in, both inside and outside
