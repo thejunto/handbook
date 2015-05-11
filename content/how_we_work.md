@@ -179,24 +179,23 @@ Quick note: Avoid leading more than 2 projects at a time.
 ## Overlaps
 
 Overlaps are a big part of what makes Junto work, because this is the time when a
-lot of decisions are made, and bottlenecks are sorted out. Everyone on the team
-chats on Slack for about 30 minutes and each day of the week has
-a theme.
+lot of decisions are made, and bottlenecks are sorted out. We get on a quick Skype
+or Google Hangout call and discuss the theme of the day.
 
-- **Monday: Setting priorities (8:00AM)** - _Usually a Google Hangout_
+- **Monday: Setting priorities (9:00AM)** - _Usually a Google Hangout_
     + 8:00 to 8:15AM - Getting up to date. (Q&A about web dev, own products, blog)
     + 8:15 to 8:45AM - Set priorities for the week.
-- **Tuesday: Workflow (10:30AM)**
+- **Tuesday: Workflow (10:00AM)**
     + Talk about our work processes at a metacognitive level.
     What can we improve? What would make us more productive? Happier?
     + Propose new Pull Requests.
     + Address open Pull Requests (if any).
-- **Wednesday: Growth (12:30PM)**
+- **Wednesday: Growth (9:00AM)**
     + Define monthly goals in line with medium term goals.
     + Check-in with overall progress of monthly goals.
     + Address growth concerns. What is blocking you from doing your best work?
     + How is your learning experience going?
-- **Thursday: Feedback (10:30AM)**
+- **Thursday: Feedback (10:00AM)**
     + How did you feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
@@ -207,6 +206,12 @@ _*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://t
 
 ## Culture Friday
 
+At Junto, we handle Fridays a little different than the rest of the days. We 
+want to make sure that we stay close to each other as a team. That's why we
+have the Culture Friday, where we have fun, discuss about Junto Studio's 
+purpose, and talk about the things we're interested in, both inside and outside
+work.
+
 **Schedule:**
 
   + GPS (3:30 - 4:30)
@@ -215,7 +220,7 @@ _*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://t
   + Diálogo (5:15 - 6:15)
   + Debrief (6:15 - 6:30)
 
-_*All times are (GMT -6:00)_
+_*All times are (GMT -6:00)*_
 
 ## Our Tools
 - **Basecamp** This is how we manage all of our projects and interact with clients.
