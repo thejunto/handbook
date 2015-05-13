@@ -117,7 +117,10 @@ moment.
 
 ####Schedule
 
-8am -12pm (GMT-6:00) [Guatemala time]
+**Alejo** 8am -12pm, 2pm-6pm (Flexible schedule)(GMT-6:00) [Guatemala time]
+**Isa** 8am-12pm, 2pm-6pm (Flexible schedule) (GMT-6:00) 
+**Max** Half-hour before the overlap - 12pm (GMT)
+**Stefy** TBA8am -12pm (GMT-6:00) [Guatemala time]
 
 ####Consequences:
 
