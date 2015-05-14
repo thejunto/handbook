@@ -30,7 +30,3 @@ the company or our clients.
 
 None of it should be used for personal projects or personal gain, unless a
 previous agreement has been reached.
-
-Our agreements are based on trust. It's important that we're all very
-conscious with where and how we share projects we've worked on, since we're not
-looking to enforce this with further consequences.
