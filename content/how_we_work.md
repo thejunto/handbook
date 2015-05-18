@@ -42,6 +42,7 @@ Good goals are SMART:
 
 
 ## Accountability
+
 We [work remotely](/content/remote.md) part of the time, which means it's really
 important to keep our work as transparent as possible so we can coordinate our
 efforts.
@@ -64,9 +65,12 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
+
 You should check-in saying you accomplished your weekly **Work Priority** no later
 than Saturday at 4am.
+
 #### First fail:
+
 If you fail to do so, on Monday at noon, everyone will stop what
 they're working on and have a Skype call with you to discuss:
 - Why you failed.
@@ -79,6 +83,7 @@ You will need to continue with the same priority for next week.
 We see failure as an opportunity to learn. These meetings are positive, helpful, and fun.
 
 #### Second fail in a row:
+
 You will be asked to leave Junto. If it's unclear whether you failed or not,
 the team will take a vote, majority wins.
 
@@ -106,25 +111,31 @@ simultaneously.
 
 ####How we work simultaneously:
 
-Every day, we work at the same time during 4 hours. We have an #accountability
-channel on Slack where we post our plan for the day during the first 10 minutes
-of our 4-hour timeshare. After that, each one of us works on their own tasks.
+Every day, we work at the same time for at least 2 hours.
+We have an #accountability channel on Slack where we post our plan for the day
+during the first 10 minutes of our 4-hour timeshare.
+After that, each one of us works on their own tasks.
 
 Since we're all in Slack, we are expected to respond within 5 minutes.
 'Being available' is the metric we use to make sure we're all together on the
 same 'floor'. Because of this, we make sure to announce if we'll be away at some
 moment.
 
-####Schedule
+####Schedules
 
-**Alejo** 8am -12pm, 2pm-6pm (Flexible schedule)(GMT-6:00) [Guatemala time]
-**Isa** 8am-12pm, 2pm-6pm (Flexible schedule) (GMT-6:00) 
-**Max** Half-hour before the overlap - 12pm (GMT)
-**Stefy** TBA8am -12pm (GMT-6:00) [Guatemala time]
+- **Alejo:** 8am - 12pm, Flexible from 2pm - 6pm.
+- **Isa:** 8am - 12pm, Flexible from 2pm - 6pm
+- **Max:** Half-hour before the overlap - 12pm
+- **Stefy:** 8am - 12pm, flexible from 4pm - 6pm, 6pm - 8pm.
+
+On Monday's we don't check-in until the overlap starts.
+
+*_All times are Guatemala time._
 
 ####Consequences:
 
-If we don't check-in during the first 10 minutes or have to leave early, we have
+If we don't check-in during the first 10 minutes or have to leave early,
+of the schedules we committed to having, we have
 a 5% payroll deduction.
 
 ## Over-communicate
@@ -209,9 +220,9 @@ _*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://t
 
 ## Culture Friday
 
-At Junto, we handle Fridays a little different than the rest of the days. We 
+At Junto, we handle Fridays a little different than the rest of the days. We
 want to make sure that we stay close to each other as a team. That's why we
-have the Culture Friday, where we have fun, discuss about Junto Studio's 
+have the Culture Friday, where we have fun, discuss about Junto Studio's
 purpose, and talk about the things we're interested in, both inside and outside
 work.
 
