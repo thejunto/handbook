@@ -25,4 +25,4 @@ Happy sailing!
 - [How We Work](/content/how_we_work.md)
 - [Projects: From Sales to Deployment](/content/projects.md)
 - [Sharing](/content/sharing.md)
-- [Administration](/content/admin.md)
+- [Administration and Policies](/content/admin.md)
