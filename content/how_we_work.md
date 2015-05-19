@@ -113,7 +113,7 @@ simultaneously.
 
 Every day, we work at the same time for at least 2 hours.
 We have an #accountability channel on Slack where we post our plan for the day
-during the first 10 minutes of our 4-hour timeshare.
+during the first 10 minutes of our timeshare.
 After that, each one of us works on their own tasks.
 
 Since we're all in Slack, we are expected to respond within 5 minutes.
@@ -135,7 +135,7 @@ On Monday's we don't check-in until the overlap starts.
 ####Consequences:
 
 If we don't check-in during the first 10 minutes or have to leave early,
-of the schedules we committed to having, we have
+from the schedules we committed to having, we have
 a 5% payroll deduction.
 
 ## Over-communicate
