@@ -199,7 +199,7 @@ or Google Hangout call and discuss the theme of the day.
 - **Monday: Setting priorities (9:00AM)** - _Usually a Google Hangout_
     + 8:00 to 8:15AM - Getting up to date. (Q&A about web dev, own products, blog)
     + 8:15 to 8:45AM - Set priorities for the week.
-- **Tuesday: Workflow (10:00AM)**
+- **Tuesday: Workflow (9:00AM)**
     + Talk about our work processes at a metacognitive level.
     What can we improve? What would make us more productive? Happier?
     + Propose new Pull Requests.
@@ -209,7 +209,7 @@ or Google Hangout call and discuss the theme of the day.
     + Check-in with overall progress of monthly goals.
     + Address growth concerns. What is blocking you from doing your best work?
     + How is your learning experience going?
-- **Thursday: Feedback (10:00AM)**
+- **Thursday: Feedback (9:00AM)**
     + How did you feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
