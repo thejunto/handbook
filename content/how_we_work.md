@@ -123,14 +123,13 @@ moment.
 
 ####Schedules
 
-- **Alejo:** 8am - 12pm, Flexible from 2pm - 6pm.
-- **Isa:** 8am - 12pm, Flexible from 2pm - 6pm
-- **Max:** Half-hour before the overlap - 12pm
-- **Stefy:** 8am - 12pm, flexible from 4pm - 6pm, 6pm - 8pm.
+- **Alejo:** 9am - 1pm, Flexible from 2pm - 6pm.
+- **Isa:** 9am - 1pm, Flexible from 2pm - 6pm
+- **Stefy:** 9am - 1pm, flexible from 4pm - 6pm, 6pm - 8pm.
 
 On Monday's we don't check-in until the overlap starts.
 
-*_All times are Guatemala time._
+*_All times are Austin time._
 
 ####Consequences:
 
@@ -196,25 +195,24 @@ Overlaps are a big part of what makes Junto work, because this is the time when 
 lot of decisions are made, and bottlenecks are sorted out. We get on a quick Skype
 or Google Hangout call and discuss the theme of the day.
 
-- **Monday: Setting priorities (9:00AM)** - _Usually a Google Hangout_
-    + 8:00 to 8:15AM - Getting up to date. (Q&A about web dev, own products, blog)
-    + 8:15 to 8:45AM - Set priorities for the week.
-- **Tuesday: Workflow (9:00AM)**
-    + Talk about our work processes at a metacognitive level.
-    What can we improve? What would make us more productive? Happier?
+- **Monday: Setting priorities (10:00AM)** - _Usually a Google Hangout_
+    + 10:00 to 10:15AM - Getting up to date. (Q&A about web dev, own products, blog)
+    + 10:15 to 10:45AM - Set priorities for the week.
+- **Tuesday: Workflow (10:00AM)**
+    + This is not a hangout but we have the option to discuss through the Slack channel if there are changes that need to be made to how we work.    
     + Propose new Pull Requests.
     + Address open Pull Requests (if any).
-- **Wednesday: Growth (9:00AM)**
+- **Wednesday: Growth (10:00AM)**
     + Define monthly goals in line with medium term goals.
     + Check-in with overall progress of monthly goals.
     + Address growth concerns. What is blocking you from doing your best work?
     + How is your learning experience going?
-- **Thursday: Feedback (9:00AM)**
+- **Thursday: Feedback (10:00AM)**
     + How did you feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
 
-_*All times are (GMT -6:00)_
+_*All times are (CST)_
 
 _*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/)._
 
@@ -228,13 +226,13 @@ work.
 
 **Schedule:**
 
-  + GPS (3:30 - 4:30)
-  + Break (4:30 - 4:45)
-  + Bonding (4:45 - 5:15)
-  + Diálogo (5:15 - 6:15)
-  + Debrief (6:15 - 6:30)
+  + GPS (4:30 - 5:30)
+  + Break (5:30 - 5:45)
+  + Bonding (5:45 - 6:15)
+  + Diálogo (6:15 - 7:15)
+  + Debrief (7:15 - 7:30)
 
-_*All times are (GMT -6:00)*_
+_*All times are (CST)*_
 
 ## Our Tools
 - **Basecamp** This is how we manage all of our projects and interact with clients.
