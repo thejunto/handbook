@@ -129,7 +129,7 @@ moment.
 
 On Monday's we don't check-in until the overlap starts.
 
-*_All times are Guatemala time._
+*_All times are Austin time._
 
 ####Consequences:
 
@@ -212,7 +212,7 @@ or Google Hangout call and discuss the theme of the day.
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
 
-_*All times are (GMT -5:00)_
+_*All times are (CST)_
 
 _*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/)._
 
@@ -232,7 +232,7 @@ work.
   + Diálogo (6:15 - 7:15)
   + Debrief (7:15 - 7:30)
 
-_*All times are (GMT -5:00)*_
+_*All times are (CST)*_
 
 ## Our Tools
 - **Basecamp** This is how we manage all of our projects and interact with clients.
