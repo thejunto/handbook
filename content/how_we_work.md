@@ -10,7 +10,6 @@ So how do we create the Junto culture and stay informed with everybody everywher
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
 - [Consequences](#consequences)
-- [Working simultaneously](#working-simultaneously)
 - [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
@@ -29,24 +28,32 @@ need them.
 Now imagine the opposite: waking up looking forward for the projects you'll work 
 on during the day, and entering an empty, silent office. 
 
+![empty_office](/images/empty_office.jpg)
+
 At Junto, we like to work in an atmosphere where you'll never feel like entering
 an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
 We value working simultaneously because we can keep ourselves accountable, 
 ask and give help, motivate each other, and work consistently every day. 
 We bring together the best of two worlds by working remotely, while doing it simultaneously. 
 
-**How do we work simultaneously:**
+![full_office](/images/full_offices.jpg)
 
-Every day, we work at the same time during 2 hours. 
+### How do we work simultaneously:
+
+Every day, we work at the same time for at least 2 hours. 
+This is between 4:00pm-6:00pm (CT).
+We have an #accountability channel on Slack where we post our plan for the day
+during the first 10 minutes of our timeshare.
+After that, each one of us works on their own tasks.
 Since we're all in Slack, we respond within 5 minutes. 
 'Being available' is the metric we use to make sure we're all together on the same 'floor'. 
 Because of this, we make sure to announce if we'll be away at some moment. 
 
-**Our schedule**
+### Our schedule
 
 4pm - 6pm (CT)
 
-**Our daily workflow**
+### Our daily workflow
 
 Three times a week we make a Google Hangouts call during our WTT. We discuss specific topics concerning our weekly priorities and workflow, and to nourish our company culture. 
 
@@ -138,45 +145,6 @@ We see failure as an opportunity to learn. These meetings are positive, helpful,
 
 You will donate $75 to a charity of your choice.
 
-## Working simultaneously:
-
-When you walk into a traditional office, you expect to see other people
-working. You might want to know how their day is going and ask for help if you
-need it. Although everyone's working with different projects from their own
-desks, it feels encouraging to know that your team is also pouring their efforts
-on their work, and that they're just a couple of steps aways if you need them.
-
-Now imagine the opposite: waking up looking forward for the projects you'll work
-on during the day, and entering an empty, silent office.
-
-![empty_office](/images/empty_office.jpg)
-
-At Junto, we like to work in an atmosphere where you'll never feel like entering
-an empty 'office'. And since we work remotely, we use Slack as our headquarters.
-We value working simultaneously because we can keep ourselves accountable, ask
-and give help, motivate each other, and work consistently every day. We bring
-together the best of two worlds by working remotely, while doing it
-simultaneously.
-
-![full_office](/images/full_offices.jpg)
-
-####How we work simultaneously:
-
-Every day, we work at the same time for at least 2 hours. This is between 4:00pm-6:30pm (Texas Time).
-We have an #accountability channel on Slack where we post our plan for the day
-during the first 10 minutes of our timeshare.
-After that, each one of us works on their own tasks.
-
-Since we're all in Slack, we are expected to respond within 5 minutes.
-'Being available' is the metric we use to make sure we're all together on the
-same 'floor'. Because of this, we make sure to announce if we'll be away at some
-moment.
-
-####Consequences:
-
-If we don't check-in during the first 10 minutes or have to leave early,
-from the schedules we committed to having, we have
-a 5% payroll deduction.
 
 ## Over-communicate
 
