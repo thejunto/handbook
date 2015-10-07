@@ -5,6 +5,8 @@ their own priorities and keeping their word. We like being able to work from
 anywhere in the world and still be able to deliver great work. (Living the dream!)
 So how do we create the Junto culture and stay informed with everybody everywhere?
 
+
+- [Working Together](#working-together-time)
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
 - [Consequences](#consequences)
@@ -12,8 +14,54 @@ So how do we create the Junto culture and stay informed with everybody everywher
 - [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
-- [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
+
+
+## Working Together Time:
+
+When you walk into a traditional office, you expect to see other people 
+working. You might want to know how is their day, and ask for help if you need it 
+with some task. Although everyone's working with different projects 
+from their own desks, it feels encouraging to know that your team is also pouring 
+their efforts on their work, and that they're just a couple of steps aways if you 
+need them. 
+
+Now imagine the opposite: waking up looking forward for the projects you'll work 
+on during the day, and entering an empty, silent office. 
+
+At Junto, we like to work in an atmosphere where you'll never feel like entering
+an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
+We value working simultaneously because we can keep ourselves accountable, 
+ask and give help, motivate each other, and work consistently every day. 
+We bring together the best of two worlds by working remotely, while doing it simultaneously. 
+
+**How do we work simultaneously:**
+
+Every day, we work at the same time during 2 hours. 
+Since we're all in Slack, we respond within 5 minutes. 
+'Being available' is the metric we use to make sure we're all together on the same 'floor'. 
+Because of this, we make sure to announce if we'll be away at some moment. 
+
+**Our schedule**
+
+4pm - 6pm (CT)
+
+**Our daily workflow**
+
+Three times a week we make a Google Hangouts call during our WTT. We discuss specific topics concerning our weekly priorities and workflow, and to nourish our company culture. 
+
+- Monday: Metrics, and individual and shared priorities.
+    + Check three company areas and metrics on the past week's progress. 
+    + Reach clear individual priorities according to each company area. 
+    + Chose who will be this week's Culture Friday lead.
+    + Note: Before noon, post in your Trello board the tasks you will need help with during the    week. The rest of the team then choses which task they will work on by dragging the card to a fourth column. We use the work-together time at 4 to discuss this task's assignment and to answer questions and give help. 
+- Wednesday: Feedback.
+    + How did we feel throughout the week?
+    + What went well? What could be improved upon?
+    + Is there anything you would like to get off your chest?
+- Friday: Company Culture. 
+    + Learn together. Learn about each other. Have a dialogue.
+
 
 ## How we set priorities:
 Every Monday we set two priorities for the week during our [overlap](#overlaps).
@@ -181,52 +229,6 @@ than just yourself on board with the project:
   + How will I measure success?
 
 Quick note: Avoid leading more than 2 projects at a time.
-
-## Overlaps
-
-Overlaps are a big part of what makes Junto work, because this is the time when a
-lot of decisions are made, and bottlenecks are sorted out. We get on a quick Skype
-or Google Hangout call and discuss the theme of the day.
-
-- **Monday: Setting priorities (9:00AM)** - _Usually a Google Hangout_
-    + 8:00 to 8:15AM - Getting up to date. (Q&A about web dev, own products, blog)
-    + 8:15 to 8:45AM - Set priorities for the week.
-- **Tuesday: Workflow (9:00AM)**
-    + Talk about our work processes at a metacognitive level.
-    What can we improve? What would make us more productive? Happier?
-    + Propose new Pull Requests.
-    + Address open Pull Requests (if any).
-- **Wednesday: Growth (9:00AM)**
-    + Define monthly goals in line with medium term goals.
-    + Check-in with overall progress of monthly goals.
-    + Address growth concerns. What is blocking you from doing your best work?
-    + How is your learning experience going?
-- **Thursday: Feedback (9:00AM)**
-    + How did you feel throughout the week?
-    + What went well? What could be improved upon?
-    + Is there anything you would like to get off your chest?
-
-_*All times are (GMT -6:00)_
-
-_*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/)._
-
-## Culture Friday
-
-At Junto, we handle Fridays a little different than the rest of the days. We
-want to make sure that we stay close to each other as a team. That's why we
-have the Culture Friday, where we have fun, discuss about Junto Studio's
-purpose, and talk about the things we're interested in, both inside and outside
-work.
-
-**Schedule:**
-
-  + GPS (3:30 - 4:30)
-  + Break (4:30 - 4:45)
-  + Bonding (4:45 - 5:15)
-  + Diálogo (5:15 - 6:15)
-  + Debrief (6:15 - 6:30)
-
-_*All times are (GMT -6:00)*_
 
 ## Our Tools
 - **Basecamp** This is how we manage all of our projects and interact with clients.
