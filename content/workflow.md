@@ -5,17 +5,16 @@ their own priorities and keeping their word. We like being able to work from
 anywhere in the world and still be able to deliver great work. (Living the dream!)
 So how do we create the Junto culture and stay informed with everybody everywhere?
 
-- [Working simultaneously](#working-simultaneously)
+- [Working Together](#working-together-time)
 - [How we set priorities](#how-we-set-priorities)
 - [Accountability](#accountability)
 - [Consequences](#consequences)
 - [Overcommunicate](#over-communicate)
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
-- [Overlaps](#overlaps)
 - [Preferred Platforms](#our-tools)
 
-## Working simultaneously:
+## Working Together Time:
 
 When you walk into a traditional office, you expect to see other people 
 working. You might want to know how is their day, and ask for help if you need it 
@@ -35,25 +34,31 @@ We bring together the best of two worlds by working remotely, while doing it sim
 
 **How do we work simultaneously:**
 
-Every day, we work at the same time during 4 hours. 
-We have an #accountability channel on Slack where we post our plan for the day 
-during the first 10 minutes of our 4-hour timeshare. After that, each one of us
-work on their own tasks. 
-
+Every day, we work at the same time during 2 hours. 
 Since we're all in Slack, we respond within 5 minutes. 
 'Being available' is the metric we use to make sure we're all together on the same 'floor'. 
 Because of this, we make sure to announce if we'll be away at some moment. 
 
 **Our schedule**
 
-8am - 12pm (GMT-6:00) [Guatemala time]
+4pm - 6pm (CT)
 
-**Consequences:**
+**Our daily workflow**
 
-1. If we don't check-in during the first 10 minutes, we have to leave 
-and we have a 5% payroll deduction. 
+Three times a week we make a Google Hangouts call during our WTT. We discuss specific topics concerning our weekly priorities and workflow, and to nourish our company culture. 
 
- 
+- Monday: Metrics, and individual and shared priorities.
+    + Check three company areas and metrics on the past week's progress. 
+    + Reach clear individual priorities according to each company area. 
+    + Chose who will be this week's Culture Friday lead.
+    + Note: Before noon, post in your Trello board the tasks you will need help with during the    week. The rest of the team then choses which task they will work on by dragging the card to a fourth column. We use the work-together time at 4 to discuss this task's assignment and to answer questions and give help. 
+- Wednesday: Feedback.
+    + How did we feel throughout the week?
+    + What went well? What could be improved upon?
+    + Is there anything you would like to get off your chest?
+- Friday: Company Culture. 
+    + Learn together. Learn about each other. Have a dialogue.
+
 
 ## How we set priorities:
 Every Monday we set two priorities for the week during our [overlap](#overlaps).
@@ -173,32 +178,6 @@ than just yourself on board with the project:
   + How will I measure success?
 
 Quick note: Avoid leading more than 2 projects at a time.
-
-## Overlaps
-
-Overlaps are a big part of what makes Junto work, because this is the time when a
-lot of decisions are made, and bottlenecks are sorted out. Everyone on the team
-chats on Slack for about 30 minutes (at 12.30pm CST) and each day of the week has
-a theme.
-
-- Monday: Setting priorities.
-    + Reach clear company wide and individual priorities.
-    + Note: Before the Monday overlap, please visit the Everything Trello board
-     to ensure we don't miss any important to-do's
-- Tuesday: Workflow and Product Development.
-    + Discuss our workflow and our processes. What can we improve? What would
-    make us more productive? Happier?
-    + Resolve possible bottlenecks
-- Wednesday: Growth.
-    + Check-in with our metrics. Discuss plans for growth.
-- Thursday: Feedback.
-    + How did we feel throughout the week?
-    + What went well? What could be improved upon?
-    + Is there anything you would like to get off your chest?
-- Friday: The Company and its Culture.
-    + Learn together. Learn about each other. Have a dialogue.
-
-*Loosely based on how Jack Dorsey arranges his weeks. Read more [here](http://thenextweb.com/entrepreneur/2011/11/14/jack-dorsey-does-8-hours-at-twitter-8-hours-at-square-daily/).*
 
 ## Our Tools
 - **Basecamp** This is how we manage all of our projects and interact with clients.
