@@ -1,10 +1,9 @@
-# How We Work
+# Workflow
 
 At Junto we believe that everyone is capable of managing their own time, setting
 their own priorities and keeping their word. We like being able to work from
 anywhere in the world and still be able to deliver great work. (Living the dream!)
 So how do we create the Junto culture and stay informed with everybody everywhere?
-
 
 - [Working Together](#working-together-time)
 - [How we set priorities](#how-we-set-priorities)
@@ -14,7 +13,6 @@ So how do we create the Junto culture and stay informed with everybody everywher
 - [From Idea to Action](#from-idea-to-action)
 - [Starting a Project](#starting-a-project)
 - [Preferred Platforms](#our-tools)
-
 
 ## Working Together Time:
 
@@ -28,32 +26,24 @@ need them.
 Now imagine the opposite: waking up looking forward for the projects you'll work 
 on during the day, and entering an empty, silent office. 
 
-![empty_office](/images/empty_office.jpg)
-
 At Junto, we like to work in an atmosphere where you'll never feel like entering
 an empty 'office'. And since we work remotely, we use Slack as our headquarters. 
 We value working simultaneously because we can keep ourselves accountable, 
 ask and give help, motivate each other, and work consistently every day. 
 We bring together the best of two worlds by working remotely, while doing it simultaneously. 
 
-![full_office](/images/full_offices.jpg)
+**How do we work simultaneously:**
 
-### How do we work simultaneously:
-
-Every day, we work at the same time for at least 2 hours. 
-This is between 4:00pm-6:00pm (CT).
-We have an #accountability channel on Slack where we post our plan for the day
-during the first 10 minutes of our timeshare.
-After that, each one of us works on their own tasks.
+Every day, we work at the same time during 2 hours. 
 Since we're all in Slack, we respond within 5 minutes. 
 'Being available' is the metric we use to make sure we're all together on the same 'floor'. 
 Because of this, we make sure to announce if we'll be away at some moment. 
 
-### Our schedule
+**Our schedule**
 
 4pm - 6pm (CT)
 
-### Our daily workflow
+**Our daily workflow**
 
 Three times a week we make a Google Hangouts call during our WTT. We discuss specific topics concerning our weekly priorities and workflow, and to nourish our company culture. 
 
@@ -74,20 +64,20 @@ Three times a week we make a Google Hangouts call during our WTT. We discuss spe
 Every Monday we set two priorities for the week during our [overlap](#overlaps).
 
 1. **Work Priority**: What is the most important thing you will do
-for the company this week?
+for the company this week? 
 This priority needs to be approved by everyone else on the team during the overlap.
-  Examples:
+  Examples: 
   - Call 25 potential clients with the purpose of closing 20k in sales.
   - Send final invoice and thank-you card to our client with the purpose of closing the project.
   - Complete the Design Sprint with XYZ client with the purpose of giving a prototype to our dev team.
   - Have a first version of the website live to show to the client.
   - Present the Sales Plan for the upcoming month with the purpose of reaching X amount in sales next month.
-2. **Learning Priority**: What will you learn this week?
+2. **Learning Priority**: What will you learn this week? 
 Examples:
   - 30 min of Angular.js every day.
   - Complete two chapters of the Michael Hartl tutorial.
   - Read 25% of Alan Turing's biography.
-
+  
 Good goals are SMART:
 - **S**pecific – What? Who? When? Where? Why?
 - **M**easurable – How will I know when it is accomplished? What metrics will I use?
@@ -97,8 +87,7 @@ Good goals are SMART:
 
 
 ## Accountability
-
-We [work remotely](/content/remote.md) which means it's really
+We [work remotely](/content/remote.md) part of the time, which means it's really
 important to keep our work as transparent as possible so we can coordinate our
 efforts.
 
@@ -109,7 +98,7 @@ There are two ways we keep each other accountable:
   end of the day Basecamp automatically sends an email with a summary of what
   everyone accomplished for that day.
 2. We use the #accountability channel on Slack to:
-    - Check-in before 10am (your time zone) by saying what you will be working
+    - Check-in at the the start of our workday by saying what we will be working
      on that day. This is to help keep everybody in the loop of what you're
      working on and it allows us to coordinate efforts better. (We've found that
      using this channel has become invaluable.)
@@ -120,31 +109,23 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
-
-#### Check-ins:
-If you fail to post before 10am there is a $25 dollar penalty that will be discounted from your paycheck at the end of the month.
-
-#### Weekly-Priorities:
-
-You should check-in saying you accomplished your weekly **Work Priority** no later
+You should check-in saying you accomplished your weekly **Work Priority** no later 
 than Saturday at 4am.
-
 #### First fail:
-
-If you fail to do so, on Monday we will discuss:
+If you fail to do so, on Monday at noon, everyone will stop what
+they're working on and have a Skype call with you to discuss:
 - Why you failed.
 - What you can do next time to avoid the same mistakes.
 - What valuable lessons can we all learn from this.
 - What are the next steps for completing the failed task.
 
-You will donate $25 to a charity of your choice and will have the same priority for next week.
+You will need to continue with the same priority for next week.
 
 We see failure as an opportunity to learn. These meetings are positive, helpful, and fun.
 
 #### Second fail in a row:
-
-You will donate $75 to a charity of your choice.
-
+You will be asked to leave Junto. If it's unclear whether you failed or not, 
+the team will take a vote, majority wins.
 
 ## Over-communicate
 
@@ -206,5 +187,5 @@ Quick note: Avoid leading more than 2 projects at a time.
 - **Gmail** as our Email.
 - **Google Calendar** for all our meetings and events.
 - **Google Hangouts** for online calls.
-- **Github** to host code we're currently working on, plus any open source.
-- **Bitbucket** to host private code we're no longer actively working on.
+- **Bitbucket** to host our private code.
+- **Github** to host our public code.
