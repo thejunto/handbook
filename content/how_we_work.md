@@ -54,7 +54,7 @@ There are two ways we keep each other accountable:
   end of the day Basecamp automatically sends an email with a summary of what
   everyone accomplished for that day.
 2. We use the #accountability channel on Slack to:
-    - Check-in at the the start of our workday by saying what we will be working
+    - Check-in before 10am (your time zone) by saying what you will be working
      on that day. This is to help keep everybody in the loop of what you're
      working on and it allows us to coordinate efforts better. (We've found that
      using this channel has become invaluable.)
@@ -65,6 +65,11 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
+
+#### Check-ins:
+If you fail to post before 10am there is a $25 dollar penalty that will be discounted from your paycheck at the end of the month. 
+
+#### Weekly-Priorities:
 
 You should check-in saying you accomplished your weekly **Work Priority** no later
 than Saturday at 4am.
