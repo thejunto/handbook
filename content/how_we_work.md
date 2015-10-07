@@ -43,7 +43,7 @@ Good goals are SMART:
 
 ## Accountability
 
-We [work remotely](/content/remote.md) part of the time, which means it's really
+We [work remotely](/content/remote.md) which means it's really
 important to keep our work as transparent as possible so we can coordinate our
 efforts.
 
@@ -54,7 +54,7 @@ There are two ways we keep each other accountable:
   end of the day Basecamp automatically sends an email with a summary of what
   everyone accomplished for that day.
 2. We use the #accountability channel on Slack to:
-    - Check-in at the the start of our workday by saying what we will be working
+    - Check-in before 10am (your time zone) by saying what you will be working
      on that day. This is to help keep everybody in the loop of what you're
      working on and it allows us to coordinate efforts better. (We've found that
      using this channel has become invaluable.)
@@ -65,6 +65,11 @@ There are two ways we keep each other accountable:
 ![accountability](/images/accountability.png)
 
 ## Consequences
+
+#### Check-ins:
+If you fail to post before 10am there is a $25 dollar penalty that will be discounted from your paycheck at the end of the month.
+
+#### Weekly-Priorities:
 
 You should check-in saying you accomplished your weekly **Work Priority** no later
 than Saturday at 4am.
@@ -109,7 +114,7 @@ simultaneously.
 
 ####How we work simultaneously:
 
-Every day, we work at the same time for at least 2 hours.
+Every day, we work at the same time for at least 2 hours. This is between 4:00pm-6:30pm (Texas Time).
 We have an #accountability channel on Slack where we post our plan for the day
 during the first 10 minutes of our timeshare.
 After that, each one of us works on their own tasks.
@@ -118,17 +123,6 @@ Since we're all in Slack, we are expected to respond within 5 minutes.
 'Being available' is the metric we use to make sure we're all together on the
 same 'floor'. Because of this, we make sure to announce if we'll be away at some
 moment.
-
-####Schedules
-
-- **Alejo:** 8am - 12pm, Flexible from 2pm - 6pm.
-- **Isa:** 8am - 12pm, Flexible from 2pm - 6pm
-- **Max:** Half-hour before the overlap - 12pm
-- **Stefy:** 8am - 12pm, flexible from 4pm - 6pm, 6pm - 8pm.
-
-On Monday's we don't check-in until the overlap starts.
-
-*_All times are Guatemala time._
 
 ####Consequences:
 
