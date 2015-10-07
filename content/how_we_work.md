@@ -67,7 +67,7 @@ There are two ways we keep each other accountable:
 ## Consequences
 
 #### Check-ins:
-If you fail to post before 10am there is a $25 dollar penalty that will be discounted from your paycheck at the end of the month. 
+If you fail to post before 10am there is a $25 dollar penalty that will be discounted from your paycheck at the end of the month.
 
 #### Weekly-Priorities:
 
