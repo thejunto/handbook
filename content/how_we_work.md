@@ -71,21 +71,19 @@ than Saturday at 4am.
 
 #### First fail:
 
-If you fail to do so, on Monday at noon, everyone will stop what
-they're working on and have a Skype call with you to discuss:
+If you fail to do so, on Monday we will discuss:
 - Why you failed.
 - What you can do next time to avoid the same mistakes.
 - What valuable lessons can we all learn from this.
 - What are the next steps for completing the failed task.
 
-You will need to continue with the same priority for next week.
+You will donate $25 to a charity of your choice and will have the same priority for next week.
 
 We see failure as an opportunity to learn. These meetings are positive, helpful, and fun.
 
 #### Second fail in a row:
 
-You will be asked to leave Junto. If it's unclear whether you failed or not,
-the team will take a vote, majority wins.
+You will donate $75 to a charity of your choice.
 
 ## Working simultaneously:
 
