@@ -230,7 +230,6 @@ than just yourself on board with the project:
 
 Quick note: Avoid leading more than 2 projects at a time.
 
-
 ## Our Tools
 - **Basecamp** This is how we manage all of our projects and interact with clients.
 - **Slack** is our internal chat. Where we deal with day-to-day issues, share
