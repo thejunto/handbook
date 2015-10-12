@@ -55,7 +55,7 @@ Because of this, we make sure to announce if we'll be away at some moment.
 
 ### Our daily workflow
 
-Three times a week we make a Google Hangouts call during our WTT. We discuss specific topics concerning our weekly priorities and workflow, and to nourish our company culture. 
+Three times a week we have a Google Hangouts call during our WTT. We discuss specific topics concerning our weekly priorities and workflow, and to nourish our company culture. 
 
 - Monday: Metrics, and individual and shared priorities.
     + Check three company areas and metrics on the past week's progress. 
