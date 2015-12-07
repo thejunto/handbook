@@ -62,10 +62,12 @@ Three times a week we make a Google Hangouts call during our WTT. We discuss spe
     + Reach clear individual priorities according to each company area. 
     + Chose who will be this week's Culture Friday lead.
     + Note: Before noon, post in your Trello board the tasks you will need help with during the    week. The rest of the team then choses which task they will work on by dragging the card to a fourth column. We use the work-together time at 4 to discuss this task's assignment and to answer questions and give help. 
+    + 5:00 - 6:00pm: Cold Emailing Monday
 - Wednesday: Feedback.
     + How did we feel throughout the week?
     + What went well? What could be improved upon?
     + Is there anything you would like to get off your chest?
+    + 5:00 - 6:00: Hour of Code/Learning, depending on what we chose. 
 - Friday: Company Culture. 
     + Learn together. Learn about each other. Have a dialogue.
 
